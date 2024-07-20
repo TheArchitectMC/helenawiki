@@ -23,7 +23,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_search_engines_nmxe.svg').default,
     description: (
       <>
-        Using Algoria, Find what you need with our powerful search.
+        Find what you need with our powerful search.
       </>
     ),
   },
