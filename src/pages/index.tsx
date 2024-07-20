@@ -7,10 +7,6 @@ import Heading from '@theme/Heading';
 
 import styles from './index.module.css';
 
-import { inject } from '@vercel/analytics';
- 
-inject();
-
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
