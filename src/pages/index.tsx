@@ -7,6 +7,12 @@ import Heading from '@theme/Heading';
 
 import styles from './index.module.css';
 
+import { injectSpeedInsights } from '@vercel/speed-insights';
+import { inject } from '@vercel/analytics';
+ 
+inject();
+injectSpeedInsights();
+
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
