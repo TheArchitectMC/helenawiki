@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Smol Ruins",
+  "title": "Smol Ruins",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Smol Ruins.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Smol Ruins",
+  "permalink": "/docs/database/EleosClass/Smol Ruins",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Smol Ruins.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Sedimentary Penitentiary",
+    "permalink": "/docs/database/EleosClass/Sedimentary Penitentiary"
+  },
+  "next": {
+    "title": "Smol School",
+    "permalink": "/docs/database/EleosClass/Smol School"
+  }
+}

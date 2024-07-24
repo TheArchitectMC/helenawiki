@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/The Wither Dungeon",
+  "title": "The Wither Dungeon",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/The Wither Dungeon.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/The Wither Dungeon",
+  "permalink": "/docs/database/EleosClass/The Wither Dungeon",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/The Wither Dungeon.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Terra Capsule",
+    "permalink": "/docs/database/EleosClass/The Terra Capsule"
+  },
+  "next": {
+    "title": "Tigers Cage",
+    "permalink": "/docs/database/EleosClass/Tigers Cage"
+  }
+}

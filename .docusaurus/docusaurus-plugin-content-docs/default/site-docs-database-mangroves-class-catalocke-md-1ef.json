@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Catalocke",
+  "title": "Catalocke",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Catalocke.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Catalocke",
+  "permalink": "/docs/database/MangrovesClass/Catalocke",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Catalocke.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Big Citadel",
+    "permalink": "/docs/database/MangrovesClass/Big Citadel"
+  },
+  "next": {
+    "title": "Catboys Smol",
+    "permalink": "/docs/database/MangrovesClass/Catboys Smol"
+  }
+}

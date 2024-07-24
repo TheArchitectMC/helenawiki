@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/The Solar Eclipse",
+  "title": "The Solar Eclipse",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/The Solar Eclipse.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/The Solar Eclipse",
+  "permalink": "/docs/database/MangrovesClass/The Solar Eclipse",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/The Solar Eclipse.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Hallucination",
+    "permalink": "/docs/database/MangrovesClass/The Hallucination"
+  },
+  "next": {
+    "title": "The Supernova",
+    "permalink": "/docs/database/MangrovesClass/The Supernova"
+  }
+}

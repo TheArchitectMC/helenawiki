@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/The Supernova",
+  "title": "The Supernova",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/The Supernova.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/The Supernova",
+  "permalink": "/docs/database/MangrovesClass/The Supernova",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/The Supernova.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Solar Eclipse",
+    "permalink": "/docs/database/MangrovesClass/The Solar Eclipse"
+  },
+  "next": {
+    "title": "The Terrarium",
+    "permalink": "/docs/database/MangrovesClass/The Terrarium"
+  }
+}

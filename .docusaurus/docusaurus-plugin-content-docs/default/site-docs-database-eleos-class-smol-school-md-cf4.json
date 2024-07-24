@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Smol School",
+  "title": "Smol School",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Smol School.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Smol School",
+  "permalink": "/docs/database/EleosClass/Smol School",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Smol School.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Smol Ruins",
+    "permalink": "/docs/database/EleosClass/Smol Ruins"
+  },
+  "next": {
+    "title": "Smol Vault",
+    "permalink": "/docs/database/EleosClass/Smol Vault"
+  }
+}

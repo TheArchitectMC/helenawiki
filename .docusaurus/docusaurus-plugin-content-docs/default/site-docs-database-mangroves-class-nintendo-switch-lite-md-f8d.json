@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Nintendo Switch Lite",
+  "title": "Nintendo Switch Lite",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Nintendo Switch Lite.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Nintendo Switch Lite",
+  "permalink": "/docs/database/MangrovesClass/Nintendo Switch Lite",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Nintendo Switch Lite.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Neon Void",
+    "permalink": "/docs/database/MangrovesClass/Neon Void"
+  },
+  "next": {
+    "title": "Nintendo Switch",
+    "permalink": "/docs/database/MangrovesClass/Nintendo Switch"
+  }
+}

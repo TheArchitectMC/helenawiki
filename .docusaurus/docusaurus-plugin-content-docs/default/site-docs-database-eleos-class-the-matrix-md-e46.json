@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/The Matrix",
+  "title": "The Matrix",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/The Matrix.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/The Matrix",
+  "permalink": "/docs/database/EleosClass/The Matrix",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/The Matrix.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Lock",
+    "permalink": "/docs/database/EleosClass/The Lock"
+  },
+  "next": {
+    "title": "The Molotov",
+    "permalink": "/docs/database/EleosClass/The Molotov"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "database/PandoraClass/Bifrost Complex",
+  "title": "Bifrost Complex",
+  "description": "",
+  "source": "@site/docs/database/PandoraClass/Bifrost Complex.md",
+  "sourceDirName": "database/PandoraClass",
+  "slug": "/database/PandoraClass/Bifrost Complex",
+  "permalink": "/docs/database/PandoraClass/Bifrost Complex",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/PandoraClass/Bifrost Complex.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Ares Vault2",
+    "permalink": "/docs/database/PandoraClass/Ares Vault2"
+  },
+  "next": {
+    "title": "Chytons Vault",
+    "permalink": "/docs/database/PandoraClass/Chytons Vault"
+  }
+}

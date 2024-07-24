@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Hephaestus' Vault",
+  "title": "Hephaestus' Vault",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Hephaestus' Vault.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Hephaestus' Vault",
+  "permalink": "/docs/database/MangrovesClass/Hephaestus' Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Hephaestus' Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Heavy Vault",
+    "permalink": "/docs/database/MangrovesClass/Heavy Vault"
+  },
+  "next": {
+    "title": "Hydrogen Powerplant",
+    "permalink": "/docs/database/MangrovesClass/Hydrogen Powerplant"
+  }
+}

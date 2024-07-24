@@ -1,0 +1,24 @@
+{
+  "id": "database/LostClass/The Omega Vault",
+  "title": "The Omega Vault",
+  "description": "",
+  "source": "@site/docs/database/LostClass/The Omega Vault.md",
+  "sourceDirName": "database/LostClass",
+  "slug": "/database/LostClass/The Omega Vault",
+  "permalink": "/docs/database/LostClass/The Omega Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/LostClass/The Omega Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Midas Tower III",
+    "permalink": "/docs/database/LostClass/The Midas Tower III"
+  },
+  "next": {
+    "title": "Tluav Box",
+    "permalink": "/docs/database/LostClass/Tluav Box"
+  }
+}

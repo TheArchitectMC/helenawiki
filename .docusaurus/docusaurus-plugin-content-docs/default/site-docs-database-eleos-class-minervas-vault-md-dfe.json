@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Minerva's Vault",
+  "title": "Minerva's Vault",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Minerva's Vault.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Minerva's Vault",
+  "permalink": "/docs/database/EleosClass/Minerva's Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Minerva's Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Medusas Vault",
+    "permalink": "/docs/database/EleosClass/Medusas Vault"
+  },
+  "next": {
+    "title": "Mini Vault 2",
+    "permalink": "/docs/database/EleosClass/Mini Vault 2"
+  }
+}

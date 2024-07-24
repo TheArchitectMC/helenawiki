@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/The Pulsar",
+  "title": "The Pulsar",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/The Pulsar.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/The Pulsar",
+  "permalink": "/docs/database/EleosClass/The Pulsar",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/The Pulsar.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Pillar",
+    "permalink": "/docs/database/EleosClass/The Pillar"
+  },
+  "next": {
+    "title": "The Singularity",
+    "permalink": "/docs/database/EleosClass/The Singularity"
+  }
+}

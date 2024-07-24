@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Catboys Smoller",
+  "title": "Catboys Smoller",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Catboys Smoller.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Catboys Smoller",
+  "permalink": "/docs/database/MangrovesClass/Catboys Smoller",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Catboys Smoller.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Catboys Smol",
+    "permalink": "/docs/database/MangrovesClass/Catboys Smol"
+  },
+  "next": {
+    "title": "Cathedrals Faith",
+    "permalink": "/docs/database/MangrovesClass/Cathedrals Faith"
+  }
+}

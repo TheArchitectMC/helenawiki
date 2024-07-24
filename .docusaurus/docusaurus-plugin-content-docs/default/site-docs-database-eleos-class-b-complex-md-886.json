@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/B Complex",
+  "title": "B Complex",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/B Complex.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/B Complex",
+  "permalink": "/docs/database/EleosClass/B Complex",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/B Complex.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "B Basement",
+    "permalink": "/docs/database/EleosClass/B Basement"
+  },
+  "next": {
+    "title": "B Vault",
+    "permalink": "/docs/database/EleosClass/B Vault"
+  }
+}

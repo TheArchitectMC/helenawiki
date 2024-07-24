@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Hells Tomb",
+  "title": "Hells Tomb",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Hells Tomb.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Hells Tomb",
+  "permalink": "/docs/database/EleosClass/Hells Tomb",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Hells Tomb.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Hells Tomb Revamped",
+    "permalink": "/docs/database/EleosClass/Hells Tomb Revamped"
+  },
+  "next": {
+    "title": "Hephaestus's Vault",
+    "permalink": "/docs/database/EleosClass/Hephaestus's Vault"
+  }
+}

@@ -8,70 +8,1253 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "intro",
+          "mainDocId": "resources/Glossary/general",
           "docs": [
             {
+              "id": "database/DaedalusClass/intro",
+              "path": "/docs/database/DaedalusClass/intro",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Amogus Vault",
+              "path": "/docs/database/EleosClass/Amogus Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Anomics OG Prisons",
+              "path": "/docs/database/EleosClass/Anomics OG Prisons",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Apheleias Temple",
+              "path": "/docs/database/EleosClass/Apheleias Temple",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Aquatic Aurora",
+              "path": "/docs/database/EleosClass/Aquatic Aurora",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Arctic Bastion",
+              "path": "/docs/database/EleosClass/Arctic Bastion",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Arctic Bastion 21",
+              "path": "/docs/database/EleosClass/Arctic Bastion 21",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Astraeus Citadel",
+              "path": "/docs/database/EleosClass/Astraeus Citadel",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Attis Vault",
+              "path": "/docs/database/EleosClass/Attis Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/B Basement",
+              "path": "/docs/database/EleosClass/B Basement",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/B Complex",
+              "path": "/docs/database/EleosClass/B Complex",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/B Vault",
+              "path": "/docs/database/EleosClass/B Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Branbert KC",
+              "path": "/docs/database/EleosClass/Branbert KC",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Brunels Engine",
+              "path": "/docs/database/EleosClass/Brunels Engine",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/CAMPT Corporation",
+              "path": "/docs/database/EleosClass/CAMPT Corporation",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Catboys Crib",
+              "path": "/docs/database/EleosClass/Catboys Crib",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Cold Blooded Citadel",
+              "path": "/docs/database/EleosClass/Cold Blooded Citadel",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Crystal Vortex",
+              "path": "/docs/database/EleosClass/Crystal Vortex",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Daedalus Labyrinth",
+              "path": "/docs/database/EleosClass/Daedalus Labyrinth",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Dark Shadows Vault",
+              "path": "/docs/database/EleosClass/Dark Shadows Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Deimos Prism",
+              "path": "/docs/database/EleosClass/Deimos Prism",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Delaydalus Labyrinth",
+              "path": "/docs/database/EleosClass/Delaydalus Labyrinth",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Diamond Chamber",
+              "path": "/docs/database/EleosClass/Diamond Chamber",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Eleos Citadel",
+              "path": "/docs/database/EleosClass/Eleos Citadel",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/FAACK Complex",
+              "path": "/docs/database/EleosClass/FAACK Complex",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Faculty Y",
+              "path": "/docs/database/EleosClass/Faculty Y",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Fortress Of Solitude",
+              "path": "/docs/database/EleosClass/Fortress Of Solitude",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Gaias Vault IBSMISOW",
+              "path": "/docs/database/EleosClass/Gaias Vault IBSMISOW",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Hades Vault KC",
+              "path": "/docs/database/EleosClass/Hades Vault KC",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Hells Tomb",
+              "path": "/docs/database/EleosClass/Hells Tomb",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Hells Tomb Revamped",
+              "path": "/docs/database/EleosClass/Hells Tomb Revamped",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Hephaestus's Vault",
+              "path": "/docs/database/EleosClass/Hephaestus's Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Hypnos Vault",
+              "path": "/docs/database/EleosClass/Hypnos Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Icarus Tomb",
+              "path": "/docs/database/EleosClass/Icarus Tomb",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Inescapable Cake",
+              "path": "/docs/database/EleosClass/Inescapable Cake",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Kojins Hearth",
+              "path": "/docs/database/EleosClass/Kojins Hearth",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Liliths Temple",
+              "path": "/docs/database/EleosClass/Liliths Temple",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Lokis Final Vault",
+              "path": "/docs/database/EleosClass/Lokis Final Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Medusas Vault",
+              "path": "/docs/database/EleosClass/Medusas Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Minervas Vault",
+              "path": "/docs/database/EleosClass/Minervas Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Mini Vault 2",
+              "path": "/docs/database/EleosClass/Mini Vault 2",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Mount Everest",
+              "path": "/docs/database/EleosClass/Mount Everest",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Napkins Moment",
+              "path": "/docs/database/EleosClass/Napkins Moment",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Napkins Smol",
+              "path": "/docs/database/EleosClass/Napkins Smol",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Nemesis Citadel",
+              "path": "/docs/database/EleosClass/Nemesis Citadel",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Neptunes Monument",
+              "path": "/docs/database/EleosClass/Neptunes Monument",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Nyxs Temple",
+              "path": "/docs/database/EleosClass/Nyxs Temple",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Pandora's Vault Upgrade",
+              "path": "/docs/database/EleosClass/Pandora's Vault Upgrade",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Poseidon's Vault Upgraded",
+              "path": "/docs/database/EleosClass/Poseidon's Vault Upgraded",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/PSUP",
+              "path": "/docs/database/EleosClass/PSUP",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Pumpkin Prison",
+              "path": "/docs/database/EleosClass/Pumpkin Prison",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Pyramid of Osiris",
+              "path": "/docs/database/EleosClass/Pyramid of Osiris",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Ragnarok",
+              "path": "/docs/database/EleosClass/Ragnarok",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Raijins Leven",
+              "path": "/docs/database/EleosClass/Raijins Leven",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Ravens Coffin",
+              "path": "/docs/database/EleosClass/Ravens Coffin",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Redwood Citadel",
+              "path": "/docs/database/EleosClass/Redwood Citadel",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Rheas Final Prism",
+              "path": "/docs/database/EleosClass/Rheas Final Prism",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Rock Bottom",
+              "path": "/docs/database/EleosClass/Rock Bottom",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Sedimentary Penitentiary",
+              "path": "/docs/database/EleosClass/Sedimentary Penitentiary",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Smol Ruins",
+              "path": "/docs/database/EleosClass/Smol Ruins",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Smol School",
+              "path": "/docs/database/EleosClass/Smol School",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Smol Vault",
+              "path": "/docs/database/EleosClass/Smol Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Snow Grave",
+              "path": "/docs/database/EleosClass/Snow Grave",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Solar Hell",
+              "path": "/docs/database/EleosClass/Solar Hell",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Sunters Vault",
+              "path": "/docs/database/EleosClass/Sunters Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Sunters Vault 2",
+              "path": "/docs/database/EleosClass/Sunters Vault 2",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Temple Of Ra",
+              "path": "/docs/database/EleosClass/Temple Of Ra",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/TGWBW Vault",
+              "path": "/docs/database/EleosClass/TGWBW Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/THAW Citadel",
+              "path": "/docs/database/EleosClass/THAW Citadel",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/The Backrooms",
+              "path": "/docs/database/EleosClass/The Backrooms",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/The Basalt Vault",
+              "path": "/docs/database/EleosClass/The Basalt Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/The Box",
+              "path": "/docs/database/EleosClass/The Box",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/The Cosmos",
+              "path": "/docs/database/EleosClass/The Cosmos",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/The FAACK Rooms",
+              "path": "/docs/database/EleosClass/The FAACK Rooms",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/The Hadron",
+              "path": "/docs/database/EleosClass/The Hadron",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/The Lock",
+              "path": "/docs/database/EleosClass/The Lock",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/The Matrix",
+              "path": "/docs/database/EleosClass/The Matrix",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/The Molotov",
+              "path": "/docs/database/EleosClass/The Molotov",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/The Mothership",
+              "path": "/docs/database/EleosClass/The Mothership",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/The Panopticon",
+              "path": "/docs/database/EleosClass/The Panopticon",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/The Pillar",
+              "path": "/docs/database/EleosClass/The Pillar",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/The Pulsar",
+              "path": "/docs/database/EleosClass/The Pulsar",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/The Singularity",
+              "path": "/docs/database/EleosClass/The Singularity",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/The Sunshine Institute",
+              "path": "/docs/database/EleosClass/The Sunshine Institute",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/The Terra Capsule",
+              "path": "/docs/database/EleosClass/The Terra Capsule",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/The TNT",
+              "path": "/docs/database/EleosClass/The TNT",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/The Wither Dungeon",
+              "path": "/docs/database/EleosClass/The Wither Dungeon",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Tigers Cage",
+              "path": "/docs/database/EleosClass/Tigers Cage",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Trying Its Best Vault",
+              "path": "/docs/database/EleosClass/Trying Its Best Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Typhons Vault",
+              "path": "/docs/database/EleosClass/Typhons Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Vault 69",
+              "path": "/docs/database/EleosClass/Vault 69",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Vault X",
+              "path": "/docs/database/EleosClass/Vault X",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Wesleys BOX",
+              "path": "/docs/database/EleosClass/Wesleys BOX",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/EleosClass/Zero Tick Melon",
+              "path": "/docs/database/EleosClass/Zero Tick Melon",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Akumas Vault",
+              "path": "/docs/database/GaeaClass/Akumas Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Apollos Vault",
+              "path": "/docs/database/GaeaClass/Apollos Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Atlantis Vault",
+              "path": "/docs/database/GaeaClass/Atlantis Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Bankers Vault",
+              "path": "/docs/database/GaeaClass/Bankers Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Ciphers Vault",
+              "path": "/docs/database/GaeaClass/Ciphers Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Citadel 32",
+              "path": "/docs/database/GaeaClass/Citadel 32",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Cleopatras Tomb",
+              "path": "/docs/database/GaeaClass/Cleopatras Tomb",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Erebus Abyss",
+              "path": "/docs/database/GaeaClass/Erebus Abyss",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Gaias Vault",
+              "path": "/docs/database/GaeaClass/Gaias Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Gleipnir",
+              "path": "/docs/database/GaeaClass/Gleipnir",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Helios Vault",
+              "path": "/docs/database/GaeaClass/Helios Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Icy Vault",
+              "path": "/docs/database/GaeaClass/Icy Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Impel Down",
+              "path": "/docs/database/GaeaClass/Impel Down",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Kenos",
+              "path": "/docs/database/GaeaClass/Kenos",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Kings Vault",
+              "path": "/docs/database/GaeaClass/Kings Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Lucifers Vault",
+              "path": "/docs/database/GaeaClass/Lucifers Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Meteorite Prison",
+              "path": "/docs/database/GaeaClass/Meteorite Prison",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Mount Olympus",
+              "path": "/docs/database/GaeaClass/Mount Olympus",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Neptunes Last Wave",
+              "path": "/docs/database/GaeaClass/Neptunes Last Wave",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Nidavellir",
+              "path": "/docs/database/GaeaClass/Nidavellir",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Operators Vault",
+              "path": "/docs/database/GaeaClass/Operators Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Percys Vault",
+              "path": "/docs/database/GaeaClass/Percys Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Satans Arch",
+              "path": "/docs/database/GaeaClass/Satans Arch",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Tardos Cone",
+              "path": "/docs/database/GaeaClass/Tardos Cone",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/The Chunk Border",
+              "path": "/docs/database/GaeaClass/The Chunk Border",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/The Infinity Vault",
+              "path": "/docs/database/GaeaClass/The Infinity Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/The Kingstone",
+              "path": "/docs/database/GaeaClass/The Kingstone",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/The Palantir",
+              "path": "/docs/database/GaeaClass/The Palantir",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/The Pyramid",
+              "path": "/docs/database/GaeaClass/The Pyramid",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/The Ruby",
+              "path": "/docs/database/GaeaClass/The Ruby",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Ursa Major",
+              "path": "/docs/database/GaeaClass/Ursa Major",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Vault 36",
+              "path": "/docs/database/GaeaClass/Vault 36",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Vault 666",
+              "path": "/docs/database/GaeaClass/Vault 666",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Vertex Vault",
+              "path": "/docs/database/GaeaClass/Vertex Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/GaeaClass/Zelictics Vault",
+              "path": "/docs/database/GaeaClass/Zelictics Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/LostClass/Aress Fortress",
+              "path": "/docs/database/LostClass/Aress Fortress",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/LostClass/Bedrock Box",
+              "path": "/docs/database/LostClass/Bedrock Box",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/LostClass/Devils Lair",
+              "path": "/docs/database/LostClass/Devils Lair",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/LostClass/Netherite Vault",
+              "path": "/docs/database/LostClass/Netherite Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/LostClass/Smoller Vault",
+              "path": "/docs/database/LostClass/Smoller Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/LostClass/The Core",
+              "path": "/docs/database/LostClass/The Core",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/LostClass/The Cube",
+              "path": "/docs/database/LostClass/The Cube",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/LostClass/The Cube2",
+              "path": "/docs/database/LostClass/The Cube2",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/LostClass/The Midas Tower III",
+              "path": "/docs/database/LostClass/The Midas Tower III",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/LostClass/The Omega Vault",
+              "path": "/docs/database/LostClass/The Omega Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/LostClass/Tluav Box",
+              "path": "/docs/database/LostClass/Tluav Box",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/LostClass/Typhons Column",
+              "path": "/docs/database/LostClass/Typhons Column",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Amazon Lily",
+              "path": "/docs/database/MangrovesClass/Amazon Lily",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Ametrine Impulse",
+              "path": "/docs/database/MangrovesClass/Ametrine Impulse",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Apotheosis",
+              "path": "/docs/database/MangrovesClass/Apotheosis",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Arctic Smol",
+              "path": "/docs/database/MangrovesClass/Arctic Smol",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Atom Bomb",
+              "path": "/docs/database/MangrovesClass/Atom Bomb",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Auto Rooms",
+              "path": "/docs/database/MangrovesClass/Auto Rooms",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Big Citadel",
+              "path": "/docs/database/MangrovesClass/Big Citadel",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Catalocke",
+              "path": "/docs/database/MangrovesClass/Catalocke",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Catboys Smol",
+              "path": "/docs/database/MangrovesClass/Catboys Smol",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Catboys Smoller",
+              "path": "/docs/database/MangrovesClass/Catboys Smoller",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Cathedrals Faith",
+              "path": "/docs/database/MangrovesClass/Cathedrals Faith",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Cherry Wood Eye",
+              "path": "/docs/database/MangrovesClass/Cherry Wood Eye",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Cryofrost Citadel",
+              "path": "/docs/database/MangrovesClass/Cryofrost Citadel",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Cryofrost Container",
+              "path": "/docs/database/MangrovesClass/Cryofrost Container",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Diktaean Cave",
+              "path": "/docs/database/MangrovesClass/Diktaean Cave",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Dwarven Keep",
+              "path": "/docs/database/MangrovesClass/Dwarven Keep",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Edge Of Destiny",
+              "path": "/docs/database/MangrovesClass/Edge Of Destiny",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Eleos Citadel 21",
+              "path": "/docs/database/MangrovesClass/Eleos Citadel 21",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Erebus Citadel",
+              "path": "/docs/database/MangrovesClass/Erebus Citadel",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Factory X",
+              "path": "/docs/database/MangrovesClass/Factory X",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Fractal Monument",
+              "path": "/docs/database/MangrovesClass/Fractal Monument",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Game & Watch",
+              "path": "/docs/database/MangrovesClass/Game & Watch",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/GAs 1 Chunk Prison",
+              "path": "/docs/database/MangrovesClass/GAs 1 Chunk Prison",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Heavy Vault",
+              "path": "/docs/database/MangrovesClass/Heavy Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Hephaestus' Vault",
+              "path": "/docs/database/MangrovesClass/Hephaestus' Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Hydrogen Powerplant",
+              "path": "/docs/database/MangrovesClass/Hydrogen Powerplant",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Iron Cage",
+              "path": "/docs/database/MangrovesClass/Iron Cage",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/James Vault",
+              "path": "/docs/database/MangrovesClass/James Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Kenadians Small Prisons",
+              "path": "/docs/database/MangrovesClass/Kenadians Small Prisons",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Mangroves Eye",
+              "path": "/docs/database/MangrovesClass/Mangroves Eye",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Minimum Wage Vault",
+              "path": "/docs/database/MangrovesClass/Minimum Wage Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Monoliths Reprisal",
+              "path": "/docs/database/MangrovesClass/Monoliths Reprisal",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Neon Void",
+              "path": "/docs/database/MangrovesClass/Neon Void",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Nintendo Switch",
+              "path": "/docs/database/MangrovesClass/Nintendo Switch",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Nintendo Switch Lite",
+              "path": "/docs/database/MangrovesClass/Nintendo Switch Lite",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Obitus",
+              "path": "/docs/database/MangrovesClass/Obitus",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Omega Citadel",
+              "path": "/docs/database/MangrovesClass/Omega Citadel",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/P-69",
+              "path": "/docs/database/MangrovesClass/P-69",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Peak 11",
+              "path": "/docs/database/MangrovesClass/Peak 11",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Piglins Crater",
+              "path": "/docs/database/MangrovesClass/Piglins Crater",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/PRISON",
+              "path": "/docs/database/MangrovesClass/PRISON",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Project 113",
+              "path": "/docs/database/MangrovesClass/Project 113",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Rating System Vault",
+              "path": "/docs/database/MangrovesClass/Rating System Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/RAvenge",
+              "path": "/docs/database/MangrovesClass/RAvenge",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Ravens Retaliation",
+              "path": "/docs/database/MangrovesClass/Ravens Retaliation",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Ravens Revenge",
+              "path": "/docs/database/MangrovesClass/Ravens Revenge",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Snack Fridge",
+              "path": "/docs/database/MangrovesClass/Snack Fridge",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Solitude's Solstice",
+              "path": "/docs/database/MangrovesClass/Solitude's Solstice",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Stormable",
+              "path": "/docs/database/MangrovesClass/Stormable",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Survival Prison Speedrun",
+              "path": "/docs/database/MangrovesClass/Survival Prison Speedrun",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Temple Of Poseidon",
+              "path": "/docs/database/MangrovesClass/Temple Of Poseidon",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/The Acid Alps",
+              "path": "/docs/database/MangrovesClass/The Acid Alps",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/The Arena",
+              "path": "/docs/database/MangrovesClass/The Arena",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/The Cave",
+              "path": "/docs/database/MangrovesClass/The Cave",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/The Ecosystem",
+              "path": "/docs/database/MangrovesClass/The Ecosystem",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/The Fish Tank",
+              "path": "/docs/database/MangrovesClass/The Fish Tank",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/The Fox Den",
+              "path": "/docs/database/MangrovesClass/The Fox Den",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/The Hallucination",
+              "path": "/docs/database/MangrovesClass/The Hallucination",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/The Solar Eclipse",
+              "path": "/docs/database/MangrovesClass/The Solar Eclipse",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/The Supernova",
+              "path": "/docs/database/MangrovesClass/The Supernova",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/The Terrarium",
+              "path": "/docs/database/MangrovesClass/The Terrarium",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/The Wardens Den",
+              "path": "/docs/database/MangrovesClass/The Wardens Den",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Ton 618",
+              "path": "/docs/database/MangrovesClass/Ton 618",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Vault Z",
+              "path": "/docs/database/MangrovesClass/Vault Z",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Velox",
+              "path": "/docs/database/MangrovesClass/Velox",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Vulcans Tower",
+              "path": "/docs/database/MangrovesClass/Vulcans Tower",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Vulcans Vengeance",
+              "path": "/docs/database/MangrovesClass/Vulcans Vengeance",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Y-Positive",
+              "path": "/docs/database/MangrovesClass/Y-Positive",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/MangrovesClass/Yoxy Vault",
+              "path": "/docs/database/MangrovesClass/Yoxy Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/Admins Vault",
+              "path": "/docs/database/PandoraClass/Admins Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/Apollos Vault",
+              "path": "/docs/database/PandoraClass/Apollos Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/Apollos Vault2",
+              "path": "/docs/database/PandoraClass/Apollos Vault2",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/Ares Vault",
+              "path": "/docs/database/PandoraClass/Ares Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/Ares Vault2",
+              "path": "/docs/database/PandoraClass/Ares Vault2",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/Bifrost Complex",
+              "path": "/docs/database/PandoraClass/Bifrost Complex",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/Chytons Vault",
+              "path": "/docs/database/PandoraClass/Chytons Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/Creavault",
+              "path": "/docs/database/PandoraClass/Creavault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/Demonic Vault",
+              "path": "/docs/database/PandoraClass/Demonic Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/Devils Vault",
+              "path": "/docs/database/PandoraClass/Devils Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/Glaciers Orb",
+              "path": "/docs/database/PandoraClass/Glaciers Orb",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/Guardians Vault",
+              "path": "/docs/database/PandoraClass/Guardians Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/Hades Vault",
+              "path": "/docs/database/PandoraClass/Hades Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/Hestias Grave",
+              "path": "/docs/database/PandoraClass/Hestias Grave",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/Nyxes Vault",
+              "path": "/docs/database/PandoraClass/Nyxes Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/Odysseus Vault",
+              "path": "/docs/database/PandoraClass/Odysseus Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/Olympus Stronghold",
+              "path": "/docs/database/PandoraClass/Olympus Stronghold",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/Pandoras Vault",
+              "path": "/docs/database/PandoraClass/Pandoras Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/Perception Vault",
+              "path": "/docs/database/PandoraClass/Perception Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/Poseidons Vault",
+              "path": "/docs/database/PandoraClass/Poseidons Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/Tartarus",
+              "path": "/docs/database/PandoraClass/Tartarus",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/The Alpha",
+              "path": "/docs/database/PandoraClass/The Alpha",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/The Black Hole",
+              "path": "/docs/database/PandoraClass/The Black Hole",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/The Chaos",
+              "path": "/docs/database/PandoraClass/The Chaos",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/The Cuckoos Nest",
+              "path": "/docs/database/PandoraClass/The Cuckoos Nest",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/The Ender Chest",
+              "path": "/docs/database/PandoraClass/The Ender Chest",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/The Fortress",
+              "path": "/docs/database/PandoraClass/The Fortress",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/The Obelisk",
+              "path": "/docs/database/PandoraClass/The Obelisk",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/Titans Vault",
+              "path": "/docs/database/PandoraClass/Titans Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/Tomb of Anubis",
+              "path": "/docs/database/PandoraClass/Tomb of Anubis",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/PandoraClass/Zeus Vault",
+              "path": "/docs/database/PandoraClass/Zeus Vault",
+              "sidebar": "databaseSidebar"
+            },
+            {
+              "id": "database/synopsis",
+              "path": "/docs/database/synopsis",
+              "sidebar": "databaseSidebar"
+            },
+            {
               "id": "intro",
-              "path": "/docs/intro",
-              "sidebar": "tutorialSidebar"
+              "path": "/docs/intro"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
-              "sidebar": "tutorialSidebar"
+              "id": "resources/Glossary/general",
+              "path": "/docs/resources/Glossary/general",
+              "sidebar": "resourcesSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
-              "sidebar": "tutorialSidebar"
+              "id": "resources/synopsis",
+              "path": "/docs/resources/synopsis",
+              "sidebar": "resourcesSidebar"
             },
             {
               "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
+              "path": "/docs/tutorial-extras/manage-docs-versions"
             },
             {
               "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/tutorial---basics",
-              "path": "/docs/category/tutorial---basics",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
-              "sidebar": "tutorialSidebar"
+              "path": "/docs/tutorial-extras/translate-your-site"
             }
           ],
           "draftIds": [],
           "sidebars": {
-            "tutorialSidebar": {
+            "resourcesSidebar": {
               "link": {
-                "path": "/docs/intro",
-                "label": "intro"
+                "path": "/docs/resources/Glossary/general",
+                "label": "resources/Glossary/general"
+              }
+            },
+            "databaseSidebar": {
+              "link": {
+                "path": "/docs/database/DaedalusClass/intro",
+                "label": "database/DaedalusClass/intro"
               }
             }
           }

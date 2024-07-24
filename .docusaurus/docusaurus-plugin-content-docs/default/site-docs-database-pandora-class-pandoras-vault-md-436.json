@@ -1,0 +1,24 @@
+{
+  "id": "database/PandoraClass/Pandora's Vault",
+  "title": "Pandora's Vault",
+  "description": "",
+  "source": "@site/docs/database/PandoraClass/Pandora's Vault.md",
+  "sourceDirName": "database/PandoraClass",
+  "slug": "/database/PandoraClass/Pandora's Vault",
+  "permalink": "/docs/database/PandoraClass/Pandora's Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/PandoraClass/Pandora's Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Olympus Stronghold",
+    "permalink": "/docs/database/PandoraClass/Olympus Stronghold"
+  },
+  "next": {
+    "title": "Perception Vault",
+    "permalink": "/docs/database/PandoraClass/Perception Vault"
+  }
+}

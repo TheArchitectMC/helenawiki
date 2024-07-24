@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/The Wardens Den",
+  "title": "The Wardens Den",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/The Wardens Den.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/The Wardens Den",
+  "permalink": "/docs/database/MangrovesClass/The Wardens Den",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/The Wardens Den.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Terrarium",
+    "permalink": "/docs/database/MangrovesClass/The Terrarium"
+  },
+  "next": {
+    "title": "Ton 618",
+    "permalink": "/docs/database/MangrovesClass/Ton 618"
+  }
+}

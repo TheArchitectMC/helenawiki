@@ -1,0 +1,24 @@
+{
+  "id": "database/GaeaClass/Vault 36",
+  "title": "Vault 36",
+  "description": "",
+  "source": "@site/docs/database/GaeaClass/Vault 36.md",
+  "sourceDirName": "database/GaeaClass",
+  "slug": "/database/GaeaClass/Vault 36",
+  "permalink": "/docs/database/GaeaClass/Vault 36",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/GaeaClass/Vault 36.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Ursa Major",
+    "permalink": "/docs/database/GaeaClass/Ursa Major"
+  },
+  "next": {
+    "title": "Vault 666",
+    "permalink": "/docs/database/GaeaClass/Vault 666"
+  }
+}

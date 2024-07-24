@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Typhons Vault",
+  "title": "Typhons Vault",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Typhons Vault.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Typhons Vault",
+  "permalink": "/docs/database/EleosClass/Typhons Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Typhons Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Trying Its Best Vault",
+    "permalink": "/docs/database/EleosClass/Trying Its Best Vault"
+  },
+  "next": {
+    "title": "Vault 69",
+    "permalink": "/docs/database/EleosClass/Vault 69"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Game & Watch",
+  "title": "Game & Watch",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Game & Watch.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Game & Watch",
+  "permalink": "/docs/database/MangrovesClass/Game & Watch",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Game & Watch.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "GAs 1 Chunk Prison",
+    "permalink": "/docs/database/MangrovesClass/GAs 1 Chunk Prison"
+  },
+  "next": {
+    "title": "Heavy Vault",
+    "permalink": "/docs/database/MangrovesClass/Heavy Vault"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Hades Vault KC",
+  "title": "Hades Vault KC",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Hades Vault KC.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Hades Vault KC",
+  "permalink": "/docs/database/EleosClass/Hades Vault KC",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Hades Vault KC.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Gaias Vault IBSMISOW",
+    "permalink": "/docs/database/EleosClass/Gaias Vault IBSMISOW"
+  },
+  "next": {
+    "title": "Hells Tomb Revamped",
+    "permalink": "/docs/database/EleosClass/Hells Tomb Revamped"
+  }
+}

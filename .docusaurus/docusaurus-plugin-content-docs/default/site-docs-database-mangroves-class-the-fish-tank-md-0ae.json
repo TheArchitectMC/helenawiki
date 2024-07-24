@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/The Fish Tank",
+  "title": "The Fish Tank",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/The Fish Tank.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/The Fish Tank",
+  "permalink": "/docs/database/MangrovesClass/The Fish Tank",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/The Fish Tank.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Ecosystem",
+    "permalink": "/docs/database/MangrovesClass/The Ecosystem"
+  },
+  "next": {
+    "title": "The Fox Den",
+    "permalink": "/docs/database/MangrovesClass/The Fox Den"
+  }
+}

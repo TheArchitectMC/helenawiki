@@ -1,0 +1,24 @@
+{
+  "id": "database/PandoraClass/Chytons Vault",
+  "title": "Chytons Vault",
+  "description": "",
+  "source": "@site/docs/database/PandoraClass/Chytons Vault.md",
+  "sourceDirName": "database/PandoraClass",
+  "slug": "/database/PandoraClass/Chytons Vault",
+  "permalink": "/docs/database/PandoraClass/Chytons Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/PandoraClass/Chytons Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Bifrost Complex",
+    "permalink": "/docs/database/PandoraClass/Bifrost Complex"
+  },
+  "next": {
+    "title": "Creavault",
+    "permalink": "/docs/database/PandoraClass/Creavault"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "database/PandoraClass/Hades Vault",
+  "title": "Hades Vault",
+  "description": "",
+  "source": "@site/docs/database/PandoraClass/Hades Vault.md",
+  "sourceDirName": "database/PandoraClass",
+  "slug": "/database/PandoraClass/Hades Vault",
+  "permalink": "/docs/database/PandoraClass/Hades Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/PandoraClass/Hades Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Guardians Vault",
+    "permalink": "/docs/database/PandoraClass/Guardians Vault"
+  },
+  "next": {
+    "title": "Hestias Grave",
+    "permalink": "/docs/database/PandoraClass/Hestias Grave"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Rating System Vault",
+  "title": "Rating System Vault",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Rating System Vault.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Rating System Vault",
+  "permalink": "/docs/database/MangrovesClass/Rating System Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Rating System Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "RAvenge",
+    "permalink": "/docs/database/MangrovesClass/RAvenge"
+  },
+  "next": {
+    "title": "Ravens Retaliation",
+    "permalink": "/docs/database/MangrovesClass/Ravens Retaliation"
+  }
+}

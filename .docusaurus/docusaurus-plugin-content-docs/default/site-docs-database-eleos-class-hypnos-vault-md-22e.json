@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Hypnos Vault",
+  "title": "Hypnos Vault",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Hypnos Vault.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Hypnos Vault",
+  "permalink": "/docs/database/EleosClass/Hypnos Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Hypnos Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Hephaestus's Vault",
+    "permalink": "/docs/database/EleosClass/Hephaestus's Vault"
+  },
+  "next": {
+    "title": "Icarus Tomb",
+    "permalink": "/docs/database/EleosClass/Icarus Tomb"
+  }
+}

@@ -5,9 +5,9 @@
  */
 export default {
   "title": "Helena",
-  "tagline": "Dinosaurs are cool",
+  "tagline": "Dinosaurs are not cool",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-site.example.com",
+  "url": "https://helenawiki.vercel.app",
   "baseUrl": "/",
   "organizationName": "facebook",
   "projectName": "docusaurus",
@@ -26,28 +26,38 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "./sidebars.ts",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "sidebarPath": "C:\\Users\\test\\Desktop\\Docs\\helenawiki\\wiki\\sidebars.ts",
+          "editUrl": "https://github.com/TheArchitectMC/helenawiki"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/TheArchitectMC/helenawiki"
         },
         "theme": {
-          "customCss": "./src/css/custom.css"
+          "customCss": "C:\\Users\\test\\Desktop\\Docs\\helenawiki\\wiki\\src\\css\\custom.css"
         }
       }
     ]
   ],
   "themes": [
     [
-      "C:\\Users\\test\\Desktop\\Docs\\helenawiki\\my-website\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
+      "C:\\Users\\test\\Desktop\\Docs\\helenawiki\\wiki\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
       {
         "hashed": true
       }
     ]
   ],
+  "plugins": [
+    "plugin-image-zoom"
+  ],
   "themeConfig": {
+    "imageZoom": {
+      "selector": ".markdown img",
+      "options": {
+        "margin": 24,
+        "scrollOffset": 0
+      }
+    },
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
       "title": "Helena",
@@ -57,23 +67,34 @@ export default {
       },
       "items": [
         {
-          "type": "docSidebar",
-          "sidebarId": "tutorialSidebar",
-          "position": "left",
-          "label": "Resources"
-        },
-        {
           "to": "/blog",
           "label": "Blog",
           "position": "left"
         },
         {
-          "to": "about",
-          "label": "About",
+          "type": "docSidebar",
+          "sidebarId": "databaseSidebar",
+          "position": "left",
+          "label": "Database"
+        },
+        {
+          "to": "faq",
+          "label": "FAQs",
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "type": "docSidebar",
+          "sidebarId": "resourcesSidebar",
+          "position": "left",
+          "label": "Resources"
+        },
+        {
+          "to": "about",
+          "label": "About",
+          "position": "right"
+        },
+        {
+          "href": "https://github.com/TheArchitectMC/helenawiki",
           "label": "GitHub",
           "position": "right"
         }
@@ -118,7 +139,7 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/TheArchitectMC/helenawiki"
             }
           ]
         }
@@ -361,7 +382,6 @@ export default {
     "static"
   ],
   "customFields": {},
-  "plugins": [],
   "scripts": [],
   "headTags": [],
   "stylesheets": [],

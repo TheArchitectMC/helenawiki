@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/The Panopticon",
+  "title": "The Panopticon",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/The Panopticon.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/The Panopticon",
+  "permalink": "/docs/database/EleosClass/The Panopticon",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/The Panopticon.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Mothership",
+    "permalink": "/docs/database/EleosClass/The Mothership"
+  },
+  "next": {
+    "title": "The Pillar",
+    "permalink": "/docs/database/EleosClass/The Pillar"
+  }
+}

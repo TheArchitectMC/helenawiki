@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Atom Bomb",
+  "title": "Atom Bomb",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Atom Bomb.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Atom Bomb",
+  "permalink": "/docs/database/MangrovesClass/Atom Bomb",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Atom Bomb.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Arctic Smol",
+    "permalink": "/docs/database/MangrovesClass/Arctic Smol"
+  },
+  "next": {
+    "title": "Auto Rooms",
+    "permalink": "/docs/database/MangrovesClass/Auto Rooms"
+  }
+}

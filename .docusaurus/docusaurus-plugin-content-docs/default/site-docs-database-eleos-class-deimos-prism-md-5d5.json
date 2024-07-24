@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Deimos Prism",
+  "title": "Deimos Prism",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Deimos Prism.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Deimos Prism",
+  "permalink": "/docs/database/EleosClass/Deimos Prism",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Deimos Prism.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Dark Shadows Vault",
+    "permalink": "/docs/database/EleosClass/Dark Shadows Vault"
+  },
+  "next": {
+    "title": "Delaydalus Labyrinth",
+    "permalink": "/docs/database/EleosClass/Delaydalus Labyrinth"
+  }
+}

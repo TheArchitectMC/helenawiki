@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/THAW Citadel",
+  "title": "THAW Citadel",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/THAW Citadel.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/THAW Citadel",
+  "permalink": "/docs/database/EleosClass/THAW Citadel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/THAW Citadel.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "TGWBW Vault",
+    "permalink": "/docs/database/EleosClass/TGWBW Vault"
+  },
+  "next": {
+    "title": "Temple Of Ra",
+    "permalink": "/docs/database/EleosClass/Temple Of Ra"
+  }
+}

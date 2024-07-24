@@ -1,0 +1,24 @@
+{
+  "id": "database/PandoraClass/Devils Vault",
+  "title": "Devils Vault",
+  "description": "",
+  "source": "@site/docs/database/PandoraClass/Devils Vault.md",
+  "sourceDirName": "database/PandoraClass",
+  "slug": "/database/PandoraClass/Devils Vault",
+  "permalink": "/docs/database/PandoraClass/Devils Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/PandoraClass/Devils Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Demonic Vault",
+    "permalink": "/docs/database/PandoraClass/Demonic Vault"
+  },
+  "next": {
+    "title": "Glaciers Orb",
+    "permalink": "/docs/database/PandoraClass/Glaciers Orb"
+  }
+}

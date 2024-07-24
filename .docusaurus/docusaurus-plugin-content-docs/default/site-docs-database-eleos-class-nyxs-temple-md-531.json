@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Nyxs Temple",
+  "title": "Nyxs Temple",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Nyxs Temple.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Nyxs Temple",
+  "permalink": "/docs/database/EleosClass/Nyxs Temple",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Nyxs Temple.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Neptunes Monument",
+    "permalink": "/docs/database/EleosClass/Neptunes Monument"
+  },
+  "next": {
+    "title": "PSUP",
+    "permalink": "/docs/database/EleosClass/PSUP"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Edge Of Destiny",
+  "title": "Edge Of Destiny",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Edge Of Destiny.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Edge Of Destiny",
+  "permalink": "/docs/database/MangrovesClass/Edge Of Destiny",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Edge Of Destiny.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Dwarven Keep",
+    "permalink": "/docs/database/MangrovesClass/Dwarven Keep"
+  },
+  "next": {
+    "title": "Eleos Citadel 21",
+    "permalink": "/docs/database/MangrovesClass/Eleos Citadel 21"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "database/PandoraClass/The Cuckoo’s Nest",
+  "title": "The Cuckoo’s Nest",
+  "description": "",
+  "source": "@site/docs/database/PandoraClass/The Cuckoo’s Nest.md",
+  "sourceDirName": "database/PandoraClass",
+  "slug": "/database/PandoraClass/The Cuckoo’s Nest",
+  "permalink": "/docs/database/PandoraClass/The Cuckoo’s Nest",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/PandoraClass/The Cuckoo’s Nest.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Chaos",
+    "permalink": "/docs/database/PandoraClass/The Chaos"
+  },
+  "next": {
+    "title": "The Ender Chest",
+    "permalink": "/docs/database/PandoraClass/The Ender Chest"
+  }
+}

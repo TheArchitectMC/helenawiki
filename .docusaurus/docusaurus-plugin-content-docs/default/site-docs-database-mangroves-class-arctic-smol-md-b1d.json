@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Arctic Smol",
+  "title": "Arctic Smol",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Arctic Smol.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Arctic Smol",
+  "permalink": "/docs/database/MangrovesClass/Arctic Smol",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Arctic Smol.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Apotheosis",
+    "permalink": "/docs/database/MangrovesClass/Apotheosis"
+  },
+  "next": {
+    "title": "Atom Bomb",
+    "permalink": "/docs/database/MangrovesClass/Atom Bomb"
+  }
+}

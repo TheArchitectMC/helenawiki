@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Minimum Wage Vault",
+  "title": "Minimum Wage Vault",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Minimum Wage Vault.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Minimum Wage Vault",
+  "permalink": "/docs/database/MangrovesClass/Minimum Wage Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Minimum Wage Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Mangroves Eye",
+    "permalink": "/docs/database/MangrovesClass/Mangroves Eye"
+  },
+  "next": {
+    "title": "Monoliths Reprisal",
+    "permalink": "/docs/database/MangrovesClass/Monoliths Reprisal"
+  }
+}

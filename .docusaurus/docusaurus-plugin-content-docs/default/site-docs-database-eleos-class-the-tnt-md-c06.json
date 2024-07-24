@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/The TNT",
+  "title": "The TNT",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/The TNT.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/The TNT",
+  "permalink": "/docs/database/EleosClass/The TNT",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/The TNT.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Sunshine Institute",
+    "permalink": "/docs/database/EleosClass/The Sunshine Institute"
+  },
+  "next": {
+    "title": "The Terra Capsule",
+    "permalink": "/docs/database/EleosClass/The Terra Capsule"
+  }
+}

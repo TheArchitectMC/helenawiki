@@ -1,0 +1,9 @@
+{
+  "type": "mdx",
+  "permalink": "/faq",
+  "source": "@site/src/pages/faq.md",
+  "title": "FAQs",
+  "description": "Q: How can i contribute?",
+  "frontMatter": {},
+  "unlisted": false
+}

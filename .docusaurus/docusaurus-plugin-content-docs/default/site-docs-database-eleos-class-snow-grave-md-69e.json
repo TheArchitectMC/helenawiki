@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Snow Grave",
+  "title": "Snow Grave",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Snow Grave.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Snow Grave",
+  "permalink": "/docs/database/EleosClass/Snow Grave",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Snow Grave.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Smol Vault",
+    "permalink": "/docs/database/EleosClass/Smol Vault"
+  },
+  "next": {
+    "title": "Solar Hell",
+    "permalink": "/docs/database/EleosClass/Solar Hell"
+  }
+}

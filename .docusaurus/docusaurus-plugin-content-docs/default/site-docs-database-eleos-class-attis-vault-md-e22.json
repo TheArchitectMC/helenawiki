@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Attis Vault",
+  "title": "Attis Vault",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Attis Vault.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Attis Vault",
+  "permalink": "/docs/database/EleosClass/Attis Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Attis Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Astraeus Citadel",
+    "permalink": "/docs/database/EleosClass/Astraeus Citadel"
+  },
+  "next": {
+    "title": "B Basement",
+    "permalink": "/docs/database/EleosClass/B Basement"
+  }
+}

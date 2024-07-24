@@ -1,0 +1,24 @@
+{
+  "id": "database/PandoraClass/Zeus Vault",
+  "title": "Zeus Vault",
+  "description": "",
+  "source": "@site/docs/database/PandoraClass/Zeus Vault.md",
+  "sourceDirName": "database/PandoraClass",
+  "slug": "/database/PandoraClass/Zeus Vault",
+  "permalink": "/docs/database/PandoraClass/Zeus Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/PandoraClass/Zeus Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Tomb of Anubis",
+    "permalink": "/docs/database/PandoraClass/Tomb of Anubis"
+  },
+  "next": {
+    "title": "Synopsis",
+    "permalink": "/docs/database/synopsis"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/FAACK Complex",
+  "title": "FAACK Complex",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/FAACK Complex.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/FAACK Complex",
+  "permalink": "/docs/database/EleosClass/FAACK Complex",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/FAACK Complex.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Eleos Citadel",
+    "permalink": "/docs/database/EleosClass/Eleos Citadel"
+  },
+  "next": {
+    "title": "Faculty Y",
+    "permalink": "/docs/database/EleosClass/Faculty Y"
+  }
+}

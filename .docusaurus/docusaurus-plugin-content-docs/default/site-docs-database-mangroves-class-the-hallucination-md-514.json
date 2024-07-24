@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/The Hallucination",
+  "title": "The Hallucination",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/The Hallucination.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/The Hallucination",
+  "permalink": "/docs/database/MangrovesClass/The Hallucination",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/The Hallucination.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Fox Den",
+    "permalink": "/docs/database/MangrovesClass/The Fox Den"
+  },
+  "next": {
+    "title": "The Solar Eclipse",
+    "permalink": "/docs/database/MangrovesClass/The Solar Eclipse"
+  }
+}

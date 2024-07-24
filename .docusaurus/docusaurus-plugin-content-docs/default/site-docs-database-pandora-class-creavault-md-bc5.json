@@ -1,0 +1,24 @@
+{
+  "id": "database/PandoraClass/Creavault",
+  "title": "Creavault",
+  "description": "",
+  "source": "@site/docs/database/PandoraClass/Creavault.md",
+  "sourceDirName": "database/PandoraClass",
+  "slug": "/database/PandoraClass/Creavault",
+  "permalink": "/docs/database/PandoraClass/Creavault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/PandoraClass/Creavault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Chytons Vault",
+    "permalink": "/docs/database/PandoraClass/Chytons Vault"
+  },
+  "next": {
+    "title": "Demonic Vault",
+    "permalink": "/docs/database/PandoraClass/Demonic Vault"
+  }
+}

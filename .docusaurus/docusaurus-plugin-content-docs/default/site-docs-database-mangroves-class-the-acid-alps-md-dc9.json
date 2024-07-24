@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/The Acid Alps",
+  "title": "The Acid Alps",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/The Acid Alps.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/The Acid Alps",
+  "permalink": "/docs/database/MangrovesClass/The Acid Alps",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/The Acid Alps.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Temple Of Poseidon",
+    "permalink": "/docs/database/MangrovesClass/Temple Of Poseidon"
+  },
+  "next": {
+    "title": "The Arena",
+    "permalink": "/docs/database/MangrovesClass/The Arena"
+  }
+}

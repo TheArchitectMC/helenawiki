@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Brunels Engine",
+  "title": "Brunels Engine",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Brunels Engine.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Brunels Engine",
+  "permalink": "/docs/database/EleosClass/Brunels Engine",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Brunels Engine.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Branbert KC",
+    "permalink": "/docs/database/EleosClass/Branbert KC"
+  },
+  "next": {
+    "title": "CAMPT Corporation",
+    "permalink": "/docs/database/EleosClass/CAMPT Corporation"
+  }
+}

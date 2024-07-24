@@ -1,0 +1,24 @@
+{
+  "id": "database/GaeaClass/Vault 666",
+  "title": "Vault 666",
+  "description": "",
+  "source": "@site/docs/database/GaeaClass/Vault 666.md",
+  "sourceDirName": "database/GaeaClass",
+  "slug": "/database/GaeaClass/Vault 666",
+  "permalink": "/docs/database/GaeaClass/Vault 666",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/GaeaClass/Vault 666.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Vault 36",
+    "permalink": "/docs/database/GaeaClass/Vault 36"
+  },
+  "next": {
+    "title": "Vertex Vault",
+    "permalink": "/docs/database/GaeaClass/Vertex Vault"
+  }
+}

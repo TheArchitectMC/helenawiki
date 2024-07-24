@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/PSUP",
+  "title": "PSUP",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/PSUP.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/PSUP",
+  "permalink": "/docs/database/EleosClass/PSUP",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/PSUP.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Nyxs Temple",
+    "permalink": "/docs/database/EleosClass/Nyxs Temple"
+  },
+  "next": {
+    "title": "Pandora's Vault Upgrade",
+    "permalink": "/docs/database/EleosClass/Pandora's Vault Upgrade"
+  }
+}

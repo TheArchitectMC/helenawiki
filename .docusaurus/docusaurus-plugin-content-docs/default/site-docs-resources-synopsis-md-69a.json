@@ -1,0 +1,20 @@
+{
+  "id": "resources/synopsis",
+  "title": "Synopsis",
+  "description": "",
+  "source": "@site/docs/resources/synopsis.md",
+  "sourceDirName": "resources",
+  "slug": "/resources/synopsis",
+  "permalink": "/docs/resources/synopsis",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/resources/synopsis.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "resourcesSidebar",
+  "previous": {
+    "title": "General",
+    "permalink": "/docs/resources/Glossary/general"
+  }
+}

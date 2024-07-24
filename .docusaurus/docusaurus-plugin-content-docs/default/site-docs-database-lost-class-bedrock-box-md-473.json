@@ -1,0 +1,24 @@
+{
+  "id": "database/LostClass/Bedrock Box",
+  "title": "Bedrock Box",
+  "description": "",
+  "source": "@site/docs/database/LostClass/Bedrock Box.md",
+  "sourceDirName": "database/LostClass",
+  "slug": "/database/LostClass/Bedrock Box",
+  "permalink": "/docs/database/LostClass/Bedrock Box",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/LostClass/Bedrock Box.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Aress Fortress",
+    "permalink": "/docs/database/LostClass/Aress Fortress"
+  },
+  "next": {
+    "title": "Devils Lair",
+    "permalink": "/docs/database/LostClass/Devils Lair"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "resources/test",
+  "title": "test",
+  "description": "",
+  "source": "@site/docs/resources/test.md",
+  "sourceDirName": "resources",
+  "slug": "/resources/test",
+  "permalink": "/docs/resources/test",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/resources/test.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "resourcesSidebar"
+}

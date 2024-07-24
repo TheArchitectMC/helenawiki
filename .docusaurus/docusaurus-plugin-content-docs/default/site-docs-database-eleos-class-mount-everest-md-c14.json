@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Mount Everest",
+  "title": "Mount Everest",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Mount Everest.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Mount Everest",
+  "permalink": "/docs/database/EleosClass/Mount Everest",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Mount Everest.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Mini Vault 2",
+    "permalink": "/docs/database/EleosClass/Mini Vault 2"
+  },
+  "next": {
+    "title": "Napkins Moment",
+    "permalink": "/docs/database/EleosClass/Napkins Moment"
+  }
+}

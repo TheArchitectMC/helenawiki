@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Velox",
+  "title": "Velox",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Velox.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Velox",
+  "permalink": "/docs/database/MangrovesClass/Velox",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Velox.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Vault Z",
+    "permalink": "/docs/database/MangrovesClass/Vault Z"
+  },
+  "next": {
+    "title": "Vulcans Tower",
+    "permalink": "/docs/database/MangrovesClass/Vulcans Tower"
+  }
+}

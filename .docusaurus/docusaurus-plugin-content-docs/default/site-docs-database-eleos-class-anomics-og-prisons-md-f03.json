@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Anomics OG Prisons",
+  "title": "Anomics OG Prisons",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Anomics OG Prisons.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Anomics OG Prisons",
+  "permalink": "/docs/database/EleosClass/Anomics OG Prisons",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Anomics OG Prisons.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Amogus Vault",
+    "permalink": "/docs/database/EleosClass/Amogus Vault"
+  },
+  "next": {
+    "title": "Apheleias Temple",
+    "permalink": "/docs/database/EleosClass/Apheleias Temple"
+  }
+}

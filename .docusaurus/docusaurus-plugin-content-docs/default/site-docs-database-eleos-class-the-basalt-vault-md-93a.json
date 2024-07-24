@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/The Basalt Vault",
+  "title": "The Basalt Vault",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/The Basalt Vault.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/The Basalt Vault",
+  "permalink": "/docs/database/EleosClass/The Basalt Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/The Basalt Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Backrooms",
+    "permalink": "/docs/database/EleosClass/The Backrooms"
+  },
+  "next": {
+    "title": "The Box",
+    "permalink": "/docs/database/EleosClass/The Box"
+  }
+}

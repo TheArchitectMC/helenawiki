@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Cherry Wood Eye",
+  "title": "Cherry Wood Eye",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Cherry Wood Eye.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Cherry Wood Eye",
+  "permalink": "/docs/database/MangrovesClass/Cherry Wood Eye",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Cherry Wood Eye.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Cathedrals Faith",
+    "permalink": "/docs/database/MangrovesClass/Cathedrals Faith"
+  },
+  "next": {
+    "title": "Cryofrost Citadel",
+    "permalink": "/docs/database/MangrovesClass/Cryofrost Citadel"
+  }
+}

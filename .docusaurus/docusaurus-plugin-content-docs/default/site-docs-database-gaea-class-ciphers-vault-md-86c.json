@@ -1,0 +1,24 @@
+{
+  "id": "database/GaeaClass/Ciphers Vault",
+  "title": "Ciphers Vault",
+  "description": "",
+  "source": "@site/docs/database/GaeaClass/Ciphers Vault.md",
+  "sourceDirName": "database/GaeaClass",
+  "slug": "/database/GaeaClass/Ciphers Vault",
+  "permalink": "/docs/database/GaeaClass/Ciphers Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/GaeaClass/Ciphers Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Bankers Vault",
+    "permalink": "/docs/database/GaeaClass/Bankers Vault"
+  },
+  "next": {
+    "title": "Citadel 32",
+    "permalink": "/docs/database/GaeaClass/Citadel 32"
+  }
+}

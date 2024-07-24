@@ -1,0 +1,24 @@
+{
+  "id": "database/LostClass/Aress Fortress",
+  "title": "Aress Fortress",
+  "description": "",
+  "source": "@site/docs/database/LostClass/Aress Fortress.md",
+  "sourceDirName": "database/LostClass",
+  "slug": "/database/LostClass/Aress Fortress",
+  "permalink": "/docs/database/LostClass/Aress Fortress",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/LostClass/Aress Fortress.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Zelictics Vault",
+    "permalink": "/docs/database/GaeaClass/Zelictics Vault"
+  },
+  "next": {
+    "title": "Bedrock Box",
+    "permalink": "/docs/database/LostClass/Bedrock Box"
+  }
+}

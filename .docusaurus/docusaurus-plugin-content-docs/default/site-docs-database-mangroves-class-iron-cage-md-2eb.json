@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Iron Cage",
+  "title": "Iron Cage",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Iron Cage.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Iron Cage",
+  "permalink": "/docs/database/MangrovesClass/Iron Cage",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Iron Cage.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Hydrogen Powerplant",
+    "permalink": "/docs/database/MangrovesClass/Hydrogen Powerplant"
+  },
+  "next": {
+    "title": "James Vault",
+    "permalink": "/docs/database/MangrovesClass/James Vault"
+  }
+}

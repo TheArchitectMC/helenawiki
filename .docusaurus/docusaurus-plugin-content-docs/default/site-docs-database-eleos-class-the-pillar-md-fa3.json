@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/The Pillar",
+  "title": "The Pillar",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/The Pillar.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/The Pillar",
+  "permalink": "/docs/database/EleosClass/The Pillar",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/The Pillar.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Panopticon",
+    "permalink": "/docs/database/EleosClass/The Panopticon"
+  },
+  "next": {
+    "title": "The Pulsar",
+    "permalink": "/docs/database/EleosClass/The Pulsar"
+  }
+}

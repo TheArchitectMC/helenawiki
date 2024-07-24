@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/The Backrooms",
+  "title": "The Backrooms",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/The Backrooms.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/The Backrooms",
+  "permalink": "/docs/database/EleosClass/The Backrooms",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/The Backrooms.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Temple Of Ra",
+    "permalink": "/docs/database/EleosClass/Temple Of Ra"
+  },
+  "next": {
+    "title": "The Basalt Vault",
+    "permalink": "/docs/database/EleosClass/The Basalt Vault"
+  }
+}

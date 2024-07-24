@@ -1,0 +1,24 @@
+{
+  "id": "database/GaeaClass/Operators Vault",
+  "title": "Operators Vault",
+  "description": "",
+  "source": "@site/docs/database/GaeaClass/Operators Vault.md",
+  "sourceDirName": "database/GaeaClass",
+  "slug": "/database/GaeaClass/Operators Vault",
+  "permalink": "/docs/database/GaeaClass/Operators Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/GaeaClass/Operators Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Nidavellir",
+    "permalink": "/docs/database/GaeaClass/Nidavellir"
+  },
+  "next": {
+    "title": "Percys Vault",
+    "permalink": "/docs/database/GaeaClass/Percys Vault"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Daedalus Labyrinth",
+  "title": "Daedalus Labyrinth",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Daedalus Labyrinth.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Daedalus Labyrinth",
+  "permalink": "/docs/database/EleosClass/Daedalus Labyrinth",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Daedalus Labyrinth.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Crystal Vortex",
+    "permalink": "/docs/database/EleosClass/Crystal Vortex"
+  },
+  "next": {
+    "title": "Dark Shadows Vault",
+    "permalink": "/docs/database/EleosClass/Dark Shadows Vault"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Amazon Lily",
+  "title": "Amazon Lily",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Amazon Lily.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Amazon Lily",
+  "permalink": "/docs/database/MangrovesClass/Amazon Lily",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Amazon Lily.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Typhons Column",
+    "permalink": "/docs/database/LostClass/Typhons Column"
+  },
+  "next": {
+    "title": "Ametrine Impulse",
+    "permalink": "/docs/database/MangrovesClass/Ametrine Impulse"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Ravens Coffin",
+  "title": "Ravens Coffin",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Ravens Coffin.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Ravens Coffin",
+  "permalink": "/docs/database/EleosClass/Ravens Coffin",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Ravens Coffin.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Raijins Leven",
+    "permalink": "/docs/database/EleosClass/Raijins Leven"
+  },
+  "next": {
+    "title": "Redwood Citadel",
+    "permalink": "/docs/database/EleosClass/Redwood Citadel"
+  }
+}

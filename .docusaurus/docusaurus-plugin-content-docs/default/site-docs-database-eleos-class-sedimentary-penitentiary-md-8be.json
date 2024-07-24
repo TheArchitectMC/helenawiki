@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Sedimentary Penitentiary",
+  "title": "Sedimentary Penitentiary",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Sedimentary Penitentiary.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Sedimentary Penitentiary",
+  "permalink": "/docs/database/EleosClass/Sedimentary Penitentiary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Sedimentary Penitentiary.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Rock Bottom",
+    "permalink": "/docs/database/EleosClass/Rock Bottom"
+  },
+  "next": {
+    "title": "Smol Ruins",
+    "permalink": "/docs/database/EleosClass/Smol Ruins"
+  }
+}

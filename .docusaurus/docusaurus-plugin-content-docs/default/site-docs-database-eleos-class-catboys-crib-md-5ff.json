@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Catboys Crib",
+  "title": "Catboys Crib",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Catboys Crib.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Catboys Crib",
+  "permalink": "/docs/database/EleosClass/Catboys Crib",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Catboys Crib.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "CAMPT Corporation",
+    "permalink": "/docs/database/EleosClass/CAMPT Corporation"
+  },
+  "next": {
+    "title": "Cold Blooded Citadel",
+    "permalink": "/docs/database/EleosClass/Cold Blooded Citadel"
+  }
+}

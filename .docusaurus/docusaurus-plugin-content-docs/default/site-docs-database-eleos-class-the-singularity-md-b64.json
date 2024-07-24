@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/The Singularity",
+  "title": "The Singularity",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/The Singularity.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/The Singularity",
+  "permalink": "/docs/database/EleosClass/The Singularity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/The Singularity.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Pulsar",
+    "permalink": "/docs/database/EleosClass/The Pulsar"
+  },
+  "next": {
+    "title": "The Sunshine Institute",
+    "permalink": "/docs/database/EleosClass/The Sunshine Institute"
+  }
+}

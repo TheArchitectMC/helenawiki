@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/The Cave",
+  "title": "The Cave",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/The Cave.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/The Cave",
+  "permalink": "/docs/database/MangrovesClass/The Cave",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/The Cave.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Arena",
+    "permalink": "/docs/database/MangrovesClass/The Arena"
+  },
+  "next": {
+    "title": "The Ecosystem",
+    "permalink": "/docs/database/MangrovesClass/The Ecosystem"
+  }
+}

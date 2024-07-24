@@ -1,0 +1,24 @@
+{
+  "id": "database/PandoraClass/Tartarus",
+  "title": "Tartarus",
+  "description": "",
+  "source": "@site/docs/database/PandoraClass/Tartarus.md",
+  "sourceDirName": "database/PandoraClass",
+  "slug": "/database/PandoraClass/Tartarus",
+  "permalink": "/docs/database/PandoraClass/Tartarus",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/PandoraClass/Tartarus.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Poseidons Vault",
+    "permalink": "/docs/database/PandoraClass/Poseidons Vault"
+  },
+  "next": {
+    "title": "The Alpha",
+    "permalink": "/docs/database/PandoraClass/The Alpha"
+  }
+}

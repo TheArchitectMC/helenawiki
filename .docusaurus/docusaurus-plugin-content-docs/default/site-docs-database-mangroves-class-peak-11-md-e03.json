@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Peak 11",
+  "title": "Peak 11",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Peak 11.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Peak 11",
+  "permalink": "/docs/database/MangrovesClass/Peak 11",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Peak 11.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "PRISON",
+    "permalink": "/docs/database/MangrovesClass/PRISON"
+  },
+  "next": {
+    "title": "Piglins Crater",
+    "permalink": "/docs/database/MangrovesClass/Piglins Crater"
+  }
+}

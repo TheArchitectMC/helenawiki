@@ -1,0 +1,24 @@
+{
+  "id": "database/GaeaClass/The Infinity Vault",
+  "title": "The Infinity Vault",
+  "description": "",
+  "source": "@site/docs/database/GaeaClass/The Infinity Vault.md",
+  "sourceDirName": "database/GaeaClass",
+  "slug": "/database/GaeaClass/The Infinity Vault",
+  "permalink": "/docs/database/GaeaClass/The Infinity Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/GaeaClass/The Infinity Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Chunk Border",
+    "permalink": "/docs/database/GaeaClass/The Chunk Border"
+  },
+  "next": {
+    "title": "The Kingstone",
+    "permalink": "/docs/database/GaeaClass/The Kingstone"
+  }
+}

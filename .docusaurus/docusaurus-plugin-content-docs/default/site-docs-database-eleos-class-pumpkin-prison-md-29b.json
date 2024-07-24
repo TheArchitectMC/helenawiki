@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Pumpkin Prison",
+  "title": "Pumpkin Prison",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Pumpkin Prison.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Pumpkin Prison",
+  "permalink": "/docs/database/EleosClass/Pumpkin Prison",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Pumpkin Prison.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Poseidon's Vault Upgraded",
+    "permalink": "/docs/database/EleosClass/Poseidon's Vault Upgraded"
+  },
+  "next": {
+    "title": "Pyramid of Osiris",
+    "permalink": "/docs/database/EleosClass/Pyramid of Osiris"
+  }
+}

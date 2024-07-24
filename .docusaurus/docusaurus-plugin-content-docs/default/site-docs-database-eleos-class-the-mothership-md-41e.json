@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/The Mothership",
+  "title": "The Mothership",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/The Mothership.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/The Mothership",
+  "permalink": "/docs/database/EleosClass/The Mothership",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/The Mothership.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Molotov",
+    "permalink": "/docs/database/EleosClass/The Molotov"
+  },
+  "next": {
+    "title": "The Panopticon",
+    "permalink": "/docs/database/EleosClass/The Panopticon"
+  }
+}

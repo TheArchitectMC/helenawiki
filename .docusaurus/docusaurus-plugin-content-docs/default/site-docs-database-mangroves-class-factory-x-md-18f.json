@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Factory X",
+  "title": "Factory X",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Factory X.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Factory X",
+  "permalink": "/docs/database/MangrovesClass/Factory X",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Factory X.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Erebus Citadel",
+    "permalink": "/docs/database/MangrovesClass/Erebus Citadel"
+  },
+  "next": {
+    "title": "Fractal Monument",
+    "permalink": "/docs/database/MangrovesClass/Fractal Monument"
+  }
+}

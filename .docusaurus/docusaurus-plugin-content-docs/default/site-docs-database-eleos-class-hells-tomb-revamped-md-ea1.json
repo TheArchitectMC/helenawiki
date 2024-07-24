@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Hells Tomb Revamped",
+  "title": "Hells Tomb Revamped",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Hells Tomb Revamped.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Hells Tomb Revamped",
+  "permalink": "/docs/database/EleosClass/Hells Tomb Revamped",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Hells Tomb Revamped.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Hades Vault KC",
+    "permalink": "/docs/database/EleosClass/Hades Vault KC"
+  },
+  "next": {
+    "title": "Hells Tomb",
+    "permalink": "/docs/database/EleosClass/Hells Tomb"
+  }
+}

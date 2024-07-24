@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Monoliths Reprisal",
+  "title": "Monoliths Reprisal",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Monoliths Reprisal.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Monoliths Reprisal",
+  "permalink": "/docs/database/MangrovesClass/Monoliths Reprisal",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Monoliths Reprisal.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Minimum Wage Vault",
+    "permalink": "/docs/database/MangrovesClass/Minimum Wage Vault"
+  },
+  "next": {
+    "title": "Neon Void",
+    "permalink": "/docs/database/MangrovesClass/Neon Void"
+  }
+}

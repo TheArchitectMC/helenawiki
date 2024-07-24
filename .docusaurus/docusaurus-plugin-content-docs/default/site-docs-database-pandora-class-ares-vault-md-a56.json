@@ -1,0 +1,24 @@
+{
+  "id": "database/PandoraClass/Ares Vault",
+  "title": "Ares Vault",
+  "description": "",
+  "source": "@site/docs/database/PandoraClass/Ares Vault.md",
+  "sourceDirName": "database/PandoraClass",
+  "slug": "/database/PandoraClass/Ares Vault",
+  "permalink": "/docs/database/PandoraClass/Ares Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/PandoraClass/Ares Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Apollos Vault2",
+    "permalink": "/docs/database/PandoraClass/Apollos Vault2"
+  },
+  "next": {
+    "title": "Ares Vault2",
+    "permalink": "/docs/database/PandoraClass/Ares Vault2"
+  }
+}

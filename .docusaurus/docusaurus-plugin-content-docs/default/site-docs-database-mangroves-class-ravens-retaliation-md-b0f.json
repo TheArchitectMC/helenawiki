@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Ravens Retaliation",
+  "title": "Ravens Retaliation",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Ravens Retaliation.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Ravens Retaliation",
+  "permalink": "/docs/database/MangrovesClass/Ravens Retaliation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Ravens Retaliation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Rating System Vault",
+    "permalink": "/docs/database/MangrovesClass/Rating System Vault"
+  },
+  "next": {
+    "title": "Ravens Revenge",
+    "permalink": "/docs/database/MangrovesClass/Ravens Revenge"
+  }
+}

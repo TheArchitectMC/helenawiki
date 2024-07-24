@@ -1,0 +1,24 @@
+{
+  "id": "database/GaeaClass/The Pyramid",
+  "title": "The Pyramid",
+  "description": "",
+  "source": "@site/docs/database/GaeaClass/The Pyramid.md",
+  "sourceDirName": "database/GaeaClass",
+  "slug": "/database/GaeaClass/The Pyramid",
+  "permalink": "/docs/database/GaeaClass/The Pyramid",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/GaeaClass/The Pyramid.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Palantir",
+    "permalink": "/docs/database/GaeaClass/The Palantir"
+  },
+  "next": {
+    "title": "The Ruby",
+    "permalink": "/docs/database/GaeaClass/The Ruby"
+  }
+}

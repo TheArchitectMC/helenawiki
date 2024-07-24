@@ -1,0 +1,24 @@
+{
+  "id": "database/GaeaClass/Percys Vault",
+  "title": "Percys Vault",
+  "description": "",
+  "source": "@site/docs/database/GaeaClass/Percys Vault.md",
+  "sourceDirName": "database/GaeaClass",
+  "slug": "/database/GaeaClass/Percys Vault",
+  "permalink": "/docs/database/GaeaClass/Percys Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/GaeaClass/Percys Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Operators Vault",
+    "permalink": "/docs/database/GaeaClass/Operators Vault"
+  },
+  "next": {
+    "title": "Satans Arch",
+    "permalink": "/docs/database/GaeaClass/Satans Arch"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "database/GaeaClass/Cleopatras Tomb",
+  "title": "Cleopatras Tomb",
+  "description": "",
+  "source": "@site/docs/database/GaeaClass/Cleopatras Tomb.md",
+  "sourceDirName": "database/GaeaClass",
+  "slug": "/database/GaeaClass/Cleopatras Tomb",
+  "permalink": "/docs/database/GaeaClass/Cleopatras Tomb",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/GaeaClass/Cleopatras Tomb.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Citadel 32",
+    "permalink": "/docs/database/GaeaClass/Citadel 32"
+  },
+  "next": {
+    "title": "Erebus Abyss",
+    "permalink": "/docs/database/GaeaClass/Erebus Abyss"
+  }
+}

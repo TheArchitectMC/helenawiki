@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Obitus",
+  "title": "Obitus",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Obitus.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Obitus",
+  "permalink": "/docs/database/MangrovesClass/Obitus",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Obitus.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Nintendo Switch",
+    "permalink": "/docs/database/MangrovesClass/Nintendo Switch"
+  },
+  "next": {
+    "title": "Omega Citadel",
+    "permalink": "/docs/database/MangrovesClass/Omega Citadel"
+  }
+}

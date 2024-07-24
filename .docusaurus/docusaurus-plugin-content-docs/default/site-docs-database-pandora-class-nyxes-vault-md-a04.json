@@ -1,0 +1,24 @@
+{
+  "id": "database/PandoraClass/Nyxes Vault",
+  "title": "Nyxes Vault",
+  "description": "",
+  "source": "@site/docs/database/PandoraClass/Nyxes Vault.md",
+  "sourceDirName": "database/PandoraClass",
+  "slug": "/database/PandoraClass/Nyxes Vault",
+  "permalink": "/docs/database/PandoraClass/Nyxes Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/PandoraClass/Nyxes Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Hestias Grave",
+    "permalink": "/docs/database/PandoraClass/Hestias Grave"
+  },
+  "next": {
+    "title": "Odysseus Vault",
+    "permalink": "/docs/database/PandoraClass/Odysseus Vault"
+  }
+}

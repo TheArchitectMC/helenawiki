@@ -1,9 +1,9 @@
-import lunr from "C:\\Users\\test\\Desktop\\Docs\\helenawiki\\my-website\\node_modules\\lunr\\lunr.js";
+import lunr from "C:\\Users\\test\\Desktop\\Docs\\helenawiki\\wiki\\node_modules\\lunr\\lunr.js";
 export const language = ["en"];
 export const removeDefaultStopWordFilter = false;
 export const removeDefaultStemmer = false;
 export const Mark = null;
-export const searchIndexUrl = "search-index{dir}.json?_=1a2f19c6";
+export const searchIndexUrl = "search-index{dir}.json?_=135f7adb";
 export const searchResultLimits = 8;
 export const searchResultContextMaxLength = 50;
 export const explicitSearchResultPath = false;

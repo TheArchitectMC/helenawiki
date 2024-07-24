@@ -1,0 +1,24 @@
+{
+  "id": "database/LostClass/The Core",
+  "title": "The Core",
+  "description": "",
+  "source": "@site/docs/database/LostClass/The Core.md",
+  "sourceDirName": "database/LostClass",
+  "slug": "/database/LostClass/The Core",
+  "permalink": "/docs/database/LostClass/The Core",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/LostClass/The Core.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Smoller Vault",
+    "permalink": "/docs/database/LostClass/Smoller Vault"
+  },
+  "next": {
+    "title": "The Cube",
+    "permalink": "/docs/database/LostClass/The Cube"
+  }
+}

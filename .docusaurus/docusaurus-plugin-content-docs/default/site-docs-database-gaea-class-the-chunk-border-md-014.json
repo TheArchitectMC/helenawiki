@@ -1,0 +1,24 @@
+{
+  "id": "database/GaeaClass/The Chunk Border",
+  "title": "The Chunk Border",
+  "description": "",
+  "source": "@site/docs/database/GaeaClass/The Chunk Border.md",
+  "sourceDirName": "database/GaeaClass",
+  "slug": "/database/GaeaClass/The Chunk Border",
+  "permalink": "/docs/database/GaeaClass/The Chunk Border",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/GaeaClass/The Chunk Border.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Tardos Cone",
+    "permalink": "/docs/database/GaeaClass/Tardos Cone"
+  },
+  "next": {
+    "title": "The Infinity Vault",
+    "permalink": "/docs/database/GaeaClass/The Infinity Vault"
+  }
+}

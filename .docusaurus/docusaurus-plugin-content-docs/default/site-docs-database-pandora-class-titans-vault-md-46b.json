@@ -1,0 +1,24 @@
+{
+  "id": "database/PandoraClass/Titans Vault",
+  "title": "Titans Vault",
+  "description": "",
+  "source": "@site/docs/database/PandoraClass/Titans Vault.md",
+  "sourceDirName": "database/PandoraClass",
+  "slug": "/database/PandoraClass/Titans Vault",
+  "permalink": "/docs/database/PandoraClass/Titans Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/PandoraClass/Titans Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Obelisk",
+    "permalink": "/docs/database/PandoraClass/The Obelisk"
+  },
+  "next": {
+    "title": "Tomb of Anubis",
+    "permalink": "/docs/database/PandoraClass/Tomb of Anubis"
+  }
+}

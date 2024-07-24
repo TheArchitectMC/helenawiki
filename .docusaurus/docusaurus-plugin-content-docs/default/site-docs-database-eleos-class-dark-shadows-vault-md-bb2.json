@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Dark Shadows Vault",
+  "title": "Dark Shadows Vault",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Dark Shadows Vault.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Dark Shadows Vault",
+  "permalink": "/docs/database/EleosClass/Dark Shadows Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Dark Shadows Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Daedalus Labyrinth",
+    "permalink": "/docs/database/EleosClass/Daedalus Labyrinth"
+  },
+  "next": {
+    "title": "Deimos Prism",
+    "permalink": "/docs/database/EleosClass/Deimos Prism"
+  }
+}

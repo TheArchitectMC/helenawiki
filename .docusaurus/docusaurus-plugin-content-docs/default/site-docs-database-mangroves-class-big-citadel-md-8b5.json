@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Big Citadel",
+  "title": "Big Citadel",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Big Citadel.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Big Citadel",
+  "permalink": "/docs/database/MangrovesClass/Big Citadel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Big Citadel.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Auto Rooms",
+    "permalink": "/docs/database/MangrovesClass/Auto Rooms"
+  },
+  "next": {
+    "title": "Catalocke",
+    "permalink": "/docs/database/MangrovesClass/Catalocke"
+  }
+}

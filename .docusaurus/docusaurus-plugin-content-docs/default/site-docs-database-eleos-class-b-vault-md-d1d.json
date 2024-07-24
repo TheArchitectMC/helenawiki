@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/B Vault",
+  "title": "B Vault",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/B Vault.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/B Vault",
+  "permalink": "/docs/database/EleosClass/B Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/B Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "B Complex",
+    "permalink": "/docs/database/EleosClass/B Complex"
+  },
+  "next": {
+    "title": "Branbert KC",
+    "permalink": "/docs/database/EleosClass/Branbert KC"
+  }
+}

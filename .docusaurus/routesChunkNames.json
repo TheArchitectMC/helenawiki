@@ -194,6 +194,13 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcomed-9-f-ffb"
   },
+  "/faq-0a0": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---abouta-74-d48"
+    },
+    "content": "content---faq-1-fd-509"
+  },
   "/markdown-page-3d7": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
@@ -207,60 +214,1004 @@
       "plugin": "plugin---search-138-688"
     }
   },
-  "/docs-733": {
+  "/docs-5e8": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-7e6": {
+  "/docs-7b9": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-ba6": {
+  "/docs-862": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/docs/category/tutorial---basics-20e": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-tutorial-basicsc-8-a-e51"
+  "/docs/database/DaedalusClass/intro-d8d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-daedalus-class-introf-20-d62"
   },
-  "/docs/category/tutorial---extras-9ad": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-tutorial-extras-6-bb-a82"
+  "/docs/database/EleosClass/Amogus Vault-daa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-amogus-vaultd-23-429"
   },
-  "/docs/intro-61d": {
+  "/docs/database/EleosClass/Anomics OG Prisons-4e2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-anomics-og-prisonsf-03-6db"
+  },
+  "/docs/database/EleosClass/Apheleias Temple-1e4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-apheleias-temple-84-b-004"
+  },
+  "/docs/database/EleosClass/Aquatic Aurora-269": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-aquatic-aurorab-5-f-8d3"
+  },
+  "/docs/database/EleosClass/Arctic Bastion-ec0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-arctic-bastion-6-b-9-b92"
+  },
+  "/docs/database/EleosClass/Arctic Bastion 21-afb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-arctic-bastion-21-ad-6-ac3"
+  },
+  "/docs/database/EleosClass/Astraeus Citadel-536": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-astraeus-citadelf-82-abe"
+  },
+  "/docs/database/EleosClass/Attis Vault-439": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-attis-vaulte-22-a97"
+  },
+  "/docs/database/EleosClass/B Basement-601": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-b-basement-324-baa"
+  },
+  "/docs/database/EleosClass/B Complex-fff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-b-complex-886-c61"
+  },
+  "/docs/database/EleosClass/B Vault-bff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-b-vaultd-1-d-d1f"
+  },
+  "/docs/database/EleosClass/Branbert KC-29c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-branbert-kc-77-f-3ff"
+  },
+  "/docs/database/EleosClass/Brunels Engine-df4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-brunels-engine-1-dc-6ce"
+  },
+  "/docs/database/EleosClass/CAMPT Corporation-3b8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-campt-corporationea-1-462"
+  },
+  "/docs/database/EleosClass/Catboys Crib-d35": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-catboys-crib-5-ff-9a1"
+  },
+  "/docs/database/EleosClass/Cold Blooded Citadel-738": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-cold-blooded-citadela-11-d8d"
+  },
+  "/docs/database/EleosClass/Crystal Vortex-9ea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-crystal-vortex-457-ad2"
+  },
+  "/docs/database/EleosClass/Daedalus Labyrinth-65a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-daedalus-labyrinthd-68-44a"
+  },
+  "/docs/database/EleosClass/Dark Shadows Vault-94f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-dark-shadows-vaultbb-2-8e8"
+  },
+  "/docs/database/EleosClass/Deimos Prism-eae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-deimos-prism-5-d-5-9f6"
+  },
+  "/docs/database/EleosClass/Delaydalus Labyrinth-23a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-delaydalus-labyrinthdb-4-a10"
+  },
+  "/docs/database/EleosClass/Diamond Chamber-4ce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-diamond-chamber-4-ea-365"
+  },
+  "/docs/database/EleosClass/Eleos Citadel-ca9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-eleos-citadel-2-f-3-52a"
+  },
+  "/docs/database/EleosClass/FAACK Complex-c14": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-faack-complex-562-3d6"
+  },
+  "/docs/database/EleosClass/Faculty Y-7b2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-faculty-y-5-ab-b97"
+  },
+  "/docs/database/EleosClass/Fortress Of Solitude-7b3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-fortress-of-solitude-612-8c8"
+  },
+  "/docs/database/EleosClass/Gaias Vault IBSMISOW-5ea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-gaias-vault-ibsmisow-494-d60"
+  },
+  "/docs/database/EleosClass/Hades Vault KC-452": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-hades-vault-kc-94-c-568"
+  },
+  "/docs/database/EleosClass/Hells Tomb-162": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-hells-tombd-0-f-534"
+  },
+  "/docs/database/EleosClass/Hells Tomb Revamped-b2b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-hells-tomb-revampedea-1-af3"
+  },
+  "/docs/database/EleosClass/Hephaestus's Vault-066": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-hephaestuss-vault-99-f-07b"
+  },
+  "/docs/database/EleosClass/Hypnos Vault-2d5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-hypnos-vault-22-e-5d0"
+  },
+  "/docs/database/EleosClass/Icarus Tomb-00e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-icarus-tomb-208-6ac"
+  },
+  "/docs/database/EleosClass/Inescapable Cake-c20": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-inescapable-cake-50-d-7c7"
+  },
+  "/docs/database/EleosClass/Kojins Hearth-eb5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-kojins-hearthe-7-e-06c"
+  },
+  "/docs/database/EleosClass/Liliths Temple-bda": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-liliths-temple-847-69f"
+  },
+  "/docs/database/EleosClass/Lokis Final Vault-b7b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-lokis-final-vault-031-150"
+  },
+  "/docs/database/EleosClass/Medusas Vault-0ef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-medusas-vault-626-578"
+  },
+  "/docs/database/EleosClass/Minervas Vault-6c2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-minervas-vault-97-d-e5c"
+  },
+  "/docs/database/EleosClass/Mini Vault 2-54a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-mini-vault-2-ef-7-48e"
+  },
+  "/docs/database/EleosClass/Mount Everest-2c0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-mount-everestc-14-9ce"
+  },
+  "/docs/database/EleosClass/Napkins Moment-737": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-napkins-momentcfa-c18"
+  },
+  "/docs/database/EleosClass/Napkins Smol-bc2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-napkins-smol-102-edb"
+  },
+  "/docs/database/EleosClass/Nemesis Citadel-9ab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-nemesis-citadelb-27-848"
+  },
+  "/docs/database/EleosClass/Neptunes Monument-f46": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-neptunes-monument-196-d3c"
+  },
+  "/docs/database/EleosClass/Nyxs Temple-7dd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-nyxs-temple-531-824"
+  },
+  "/docs/database/EleosClass/Pandora's Vault Upgrade-ff4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-pandoras-vault-upgrade-475-4ad"
+  },
+  "/docs/database/EleosClass/Poseidon's Vault Upgraded-2f6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-poseidons-vault-upgraded-995-08b"
+  },
+  "/docs/database/EleosClass/PSUP-e20": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-psup-6-b-5-8c8"
+  },
+  "/docs/database/EleosClass/Pumpkin Prison-0a4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-pumpkin-prison-29-b-fbb"
+  },
+  "/docs/database/EleosClass/Pyramid of Osiris-64c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-pyramid-of-osiris-59-e-f84"
+  },
+  "/docs/database/EleosClass/Ragnarok-525": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-ragnarok-895-9d5"
+  },
+  "/docs/database/EleosClass/Raijins Leven-ee8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-raijins-levene-09-288"
+  },
+  "/docs/database/EleosClass/Ravens Coffin-8ba": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-ravens-coffina-1-e-111"
+  },
+  "/docs/database/EleosClass/Redwood Citadel-f12": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-redwood-citadelbdd-27d"
+  },
+  "/docs/database/EleosClass/Rheas Final Prism-391": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-rheas-final-prismbea-ff0"
+  },
+  "/docs/database/EleosClass/Rock Bottom-ef7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-rock-bottomfee-74b"
+  },
+  "/docs/database/EleosClass/Sedimentary Penitentiary-e99": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-sedimentary-penitentiary-8-be-f00"
+  },
+  "/docs/database/EleosClass/Smol Ruins-18a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-smol-ruins-084-380"
+  },
+  "/docs/database/EleosClass/Smol School-47c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-smol-schoolcf-4-9b1"
+  },
+  "/docs/database/EleosClass/Smol Vault-253": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-smol-vault-6-a-5-2f5"
+  },
+  "/docs/database/EleosClass/Snow Grave-1b2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-snow-grave-69-e-bbe"
+  },
+  "/docs/database/EleosClass/Solar Hell-d5d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-solar-hellb-0-d-045"
+  },
+  "/docs/database/EleosClass/Sunters Vault-666": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-sunters-vaulte-79-d19"
+  },
+  "/docs/database/EleosClass/Sunters Vault 2-c43": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-sunters-vault-29-d-9-82f"
+  },
+  "/docs/database/EleosClass/Temple Of Ra-3d7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-temple-of-ra-2-c-5-6f7"
+  },
+  "/docs/database/EleosClass/TGWBW Vault-482": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-tgwbw-vaultbbe-410"
+  },
+  "/docs/database/EleosClass/THAW Citadel-ac8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-thaw-citadelb-3-b-6e2"
+  },
+  "/docs/database/EleosClass/The Backrooms-3df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-the-backrooms-315-78d"
+  },
+  "/docs/database/EleosClass/The Basalt Vault-6ab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-the-basalt-vault-93-a-8b2"
+  },
+  "/docs/database/EleosClass/The Box-877": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-the-box-4-fe-1b0"
+  },
+  "/docs/database/EleosClass/The Cosmos-938": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-the-cosmosa-0-d-682"
+  },
+  "/docs/database/EleosClass/The FAACK Rooms-d15": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-the-faack-roomsf-21-5e3"
+  },
+  "/docs/database/EleosClass/The Hadron-ac5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-the-hadronaff-6ab"
+  },
+  "/docs/database/EleosClass/The Lock-b67": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-the-lock-8-d-1-0f6"
+  },
+  "/docs/database/EleosClass/The Matrix-c60": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-the-matrixe-46-f6e"
+  },
+  "/docs/database/EleosClass/The Molotov-585": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-the-molotova-28-acc"
+  },
+  "/docs/database/EleosClass/The Mothership-e17": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-the-mothership-41-e-795"
+  },
+  "/docs/database/EleosClass/The Panopticon-1e1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-the-panopticon-46-b-d43"
+  },
+  "/docs/database/EleosClass/The Pillar-fd7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-the-pillarfa-3-7b7"
+  },
+  "/docs/database/EleosClass/The Pulsar-c99": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-the-pulsard-1-b-20a"
+  },
+  "/docs/database/EleosClass/The Singularity-799": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-the-singularityb-64-d52"
+  },
+  "/docs/database/EleosClass/The Sunshine Institute-b67": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-the-sunshine-instituted-70-c22"
+  },
+  "/docs/database/EleosClass/The Terra Capsule-a64": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-the-terra-capsule-807-f65"
+  },
+  "/docs/database/EleosClass/The TNT-bff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-the-tn-tc-06-df0"
+  },
+  "/docs/database/EleosClass/The Wither Dungeon-db6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-the-wither-dungeona-36-b30"
+  },
+  "/docs/database/EleosClass/Tigers Cage-2ae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-tigers-cagef-7-d-008"
+  },
+  "/docs/database/EleosClass/Trying Its Best Vault-607": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-trying-its-best-vault-0-e-0-e87"
+  },
+  "/docs/database/EleosClass/Typhons Vault-a44": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-typhons-vault-500-0ed"
+  },
+  "/docs/database/EleosClass/Vault 69-459": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-vault-692-e-6-4ec"
+  },
+  "/docs/database/EleosClass/Vault X-d31": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-vault-x-729-8a8"
+  },
+  "/docs/database/EleosClass/Wesleys BOX-68e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-wesleys-box-022-3c4"
+  },
+  "/docs/database/EleosClass/Zero Tick Melon-52d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-eleos-class-zero-tick-melon-9-c-4-ab9"
+  },
+  "/docs/database/GaeaClass/Akumas Vault-8ee": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-akumas-vault-4-be-bde"
+  },
+  "/docs/database/GaeaClass/Apollos Vault-a3f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-apollos-vaultf-92-f9f"
+  },
+  "/docs/database/GaeaClass/Atlantis Vault-f38": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-atlantis-vaulta-9-f-fc7"
+  },
+  "/docs/database/GaeaClass/Bankers Vault-a29": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-bankers-vault-04-a-854"
+  },
+  "/docs/database/GaeaClass/Ciphers Vault-ca3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-ciphers-vault-86-c-ddc"
+  },
+  "/docs/database/GaeaClass/Citadel 32-77a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-citadel-32-a-64-f52"
+  },
+  "/docs/database/GaeaClass/Cleopatras Tomb-c9e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-cleopatras-tombe-3-a-e12"
+  },
+  "/docs/database/GaeaClass/Erebus Abyss-365": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-erebus-abyssc-6-e-89d"
+  },
+  "/docs/database/GaeaClass/Gaias Vault-1e5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-gaias-vaulta-6-a-d66"
+  },
+  "/docs/database/GaeaClass/Gleipnir-c09": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-gleipnir-9-cc-971"
+  },
+  "/docs/database/GaeaClass/Helios Vault-bfd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-helios-vaultad-9-46f"
+  },
+  "/docs/database/GaeaClass/Icy Vault-edc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-icy-vault-434-a86"
+  },
+  "/docs/database/GaeaClass/Impel Down-d21": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-impel-down-3-fc-794"
+  },
+  "/docs/database/GaeaClass/Kenos-30c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-kenos-711-73f"
+  },
+  "/docs/database/GaeaClass/Kings Vault-dc5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-kings-vaultde-1-a18"
+  },
+  "/docs/database/GaeaClass/Lucifers Vault-a45": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-lucifers-vaultf-60-c44"
+  },
+  "/docs/database/GaeaClass/Meteorite Prison-e5d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-meteorite-prisonf-6-f-792"
+  },
+  "/docs/database/GaeaClass/Mount Olympus-8df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-mount-olympus-3-a-3-5a8"
+  },
+  "/docs/database/GaeaClass/Neptunes Last Wave-963": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-neptunes-last-waveeda-f39"
+  },
+  "/docs/database/GaeaClass/Nidavellir-386": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-nidavellir-621-c1d"
+  },
+  "/docs/database/GaeaClass/Operators Vault-91b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-operators-vaultffd-279"
+  },
+  "/docs/database/GaeaClass/Percys Vault-bd3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-percys-vaultf-2-f-773"
+  },
+  "/docs/database/GaeaClass/Satans Arch-9f5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-satans-arch-63-c-ba1"
+  },
+  "/docs/database/GaeaClass/Tardos Cone-8da": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-tardos-cone-660-fe4"
+  },
+  "/docs/database/GaeaClass/The Chunk Border-da3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-the-chunk-border-014-c72"
+  },
+  "/docs/database/GaeaClass/The Infinity Vault-43a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-the-infinity-vault-367-6da"
+  },
+  "/docs/database/GaeaClass/The Kingstone-576": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-the-kingstone-9-cd-1bb"
+  },
+  "/docs/database/GaeaClass/The Palantir-aef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-the-palantir-175-00d"
+  },
+  "/docs/database/GaeaClass/The Pyramid-aa9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-the-pyramid-6-fe-2c6"
+  },
+  "/docs/database/GaeaClass/The Ruby-eee": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-the-rubyc-5-c-f4b"
+  },
+  "/docs/database/GaeaClass/Ursa Major-145": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-ursa-majora-6-b-842"
+  },
+  "/docs/database/GaeaClass/Vault 36-750": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-vault-36-bfd-a52"
+  },
+  "/docs/database/GaeaClass/Vault 666-f7d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-vault-6662-b-2-024"
+  },
+  "/docs/database/GaeaClass/Vertex Vault-cee": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-vertex-vaulte-7-b-3a8"
+  },
+  "/docs/database/GaeaClass/Zelictics Vault-7a7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-gaea-class-zelictics-vaultdaa-47f"
+  },
+  "/docs/database/LostClass/Aress Fortress-9ab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-lost-class-aress-fortressd-41-5a8"
+  },
+  "/docs/database/LostClass/Bedrock Box-e40": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-lost-class-bedrock-box-473-c71"
+  },
+  "/docs/database/LostClass/Devils Lair-db7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-lost-class-devils-lair-4-de-d1e"
+  },
+  "/docs/database/LostClass/Netherite Vault-e63": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-lost-class-netherite-vaultf-0-f-cea"
+  },
+  "/docs/database/LostClass/Smoller Vault-562": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-lost-class-smoller-vault-87-a-146"
+  },
+  "/docs/database/LostClass/The Core-ece": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-lost-class-the-core-979-a5e"
+  },
+  "/docs/database/LostClass/The Cube-e27": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-lost-class-the-cube-213-f32"
+  },
+  "/docs/database/LostClass/The Cube2-245": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-lost-class-the-cube-241-a-c39"
+  },
+  "/docs/database/LostClass/The Midas Tower III-018": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-lost-class-the-midas-tower-iii-1-ee-715"
+  },
+  "/docs/database/LostClass/The Omega Vault-a95": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-lost-class-the-omega-vault-48-c-e39"
+  },
+  "/docs/database/LostClass/Tluav Box-7ca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-lost-class-tluav-boxd-5-e-9af"
+  },
+  "/docs/database/LostClass/Typhons Column-fee": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-lost-class-typhons-column-709-cc8"
+  },
+  "/docs/database/MangrovesClass/Amazon Lily-764": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-amazon-lily-210-d05"
+  },
+  "/docs/database/MangrovesClass/Ametrine Impulse-234": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-ametrine-impulse-66-f-2af"
+  },
+  "/docs/database/MangrovesClass/Apotheosis-0a3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-apotheosis-056-498"
+  },
+  "/docs/database/MangrovesClass/Arctic Smol-57f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-arctic-smolb-1-d-22a"
+  },
+  "/docs/database/MangrovesClass/Atom Bomb-c73": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-atom-bombef-3-f3b"
+  },
+  "/docs/database/MangrovesClass/Auto Rooms-973": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-auto-rooms-286-02d"
+  },
+  "/docs/database/MangrovesClass/Big Citadel-a51": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-big-citadel-8-b-5-036"
+  },
+  "/docs/database/MangrovesClass/Catalocke-5da": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-catalocke-1-ef-182"
+  },
+  "/docs/database/MangrovesClass/Catboys Smol-3cc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-catboys-smol-4-ad-b3a"
+  },
+  "/docs/database/MangrovesClass/Catboys Smoller-449": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-catboys-smoller-22-d-7e2"
+  },
+  "/docs/database/MangrovesClass/Cathedrals Faith-54d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-cathedrals-faithbd-8-f82"
+  },
+  "/docs/database/MangrovesClass/Cherry Wood Eye-f05": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-cherry-wood-eye-59-f-4a3"
+  },
+  "/docs/database/MangrovesClass/Cryofrost Citadel-da7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-cryofrost-citadel-730-6d7"
+  },
+  "/docs/database/MangrovesClass/Cryofrost Container-d54": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-cryofrost-container-6-d-8-20f"
+  },
+  "/docs/database/MangrovesClass/Diktaean Cave-61f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-diktaean-cavedff-4be"
+  },
+  "/docs/database/MangrovesClass/Dwarven Keep-722": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-dwarven-keep-493-6e7"
+  },
+  "/docs/database/MangrovesClass/Edge Of Destiny-54e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-edge-of-destiny-14-d-f6f"
+  },
+  "/docs/database/MangrovesClass/Eleos Citadel 21-c89": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-eleos-citadel-21614-5ed"
+  },
+  "/docs/database/MangrovesClass/Erebus Citadel-65e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-erebus-citadel-5-d-8-45d"
+  },
+  "/docs/database/MangrovesClass/Factory X-3f5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-factory-x-18-f-622"
+  },
+  "/docs/database/MangrovesClass/Fractal Monument-d65": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-fractal-monument-81-d-f34"
+  },
+  "/docs/database/MangrovesClass/Game & Watch-2a0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-game-watch-9-db-c48"
+  },
+  "/docs/database/MangrovesClass/GAs 1 Chunk Prison-20a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-g-as-1-chunk-prison-51-b-6b3"
+  },
+  "/docs/database/MangrovesClass/Heavy Vault-ec6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-heavy-vault-314-817"
+  },
+  "/docs/database/MangrovesClass/Hephaestus' Vault-8f1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-hephaestus-vault-8-d-1-a55"
+  },
+  "/docs/database/MangrovesClass/Hydrogen Powerplant-8d7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-hydrogen-powerplant-074-767"
+  },
+  "/docs/database/MangrovesClass/Iron Cage-ff6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-iron-cage-2-eb-b4b"
+  },
+  "/docs/database/MangrovesClass/James Vault-7fd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-james-vaultd-20-069"
+  },
+  "/docs/database/MangrovesClass/Kenadians Small Prisons-a17": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-kenadians-small-prisons-012-b69"
+  },
+  "/docs/database/MangrovesClass/Mangroves Eye-99a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-mangroves-eye-1-b-6-096"
+  },
+  "/docs/database/MangrovesClass/Minimum Wage Vault-f9e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-minimum-wage-vaultcbe-9f6"
+  },
+  "/docs/database/MangrovesClass/Monoliths Reprisal-5d2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-monoliths-reprisal-8-ab-cfc"
+  },
+  "/docs/database/MangrovesClass/Neon Void-625": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-neon-void-1-d-5-77c"
+  },
+  "/docs/database/MangrovesClass/Nintendo Switch-553": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-nintendo-switchd-87-ed6"
+  },
+  "/docs/database/MangrovesClass/Nintendo Switch Lite-68e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-nintendo-switch-litef-8-d-de0"
+  },
+  "/docs/database/MangrovesClass/Obitus-0c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-obituse-0-d-5e3"
+  },
+  "/docs/database/MangrovesClass/Omega Citadel-f53": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-omega-citadel-9-c-6-fd1"
+  },
+  "/docs/database/MangrovesClass/P-69-6cd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-p-69766-c32"
+  },
+  "/docs/database/MangrovesClass/Peak 11-216": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-peak-11-e-03-2fb"
+  },
+  "/docs/database/MangrovesClass/Piglins Crater-269": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-piglins-crater-529-8a5"
+  },
+  "/docs/database/MangrovesClass/PRISON-83b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-prison-1-d-7-332"
+  },
+  "/docs/database/MangrovesClass/Project 113-813": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-project-113-e-71-fe0"
+  },
+  "/docs/database/MangrovesClass/Rating System Vault-b6b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-rating-system-vault-6-e-1-b3a"
+  },
+  "/docs/database/MangrovesClass/RAvenge-d70": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-r-avenge-2-eb-2ba"
+  },
+  "/docs/database/MangrovesClass/Ravens Retaliation-ea3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-ravens-retaliationb-0-f-6bc"
+  },
+  "/docs/database/MangrovesClass/Ravens Revenge-acc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-ravens-revengec-93-375"
+  },
+  "/docs/database/MangrovesClass/Snack Fridge-921": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-snack-fridge-02-f-718"
+  },
+  "/docs/database/MangrovesClass/Solitude's Solstice-32a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-solitudes-solstice-2-f-5-c45"
+  },
+  "/docs/database/MangrovesClass/Stormable-954": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-stormable-8-d-5-002"
+  },
+  "/docs/database/MangrovesClass/Survival Prison Speedrun-d72": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-survival-prison-speedrun-470-973"
+  },
+  "/docs/database/MangrovesClass/Temple Of Poseidon-a71": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-temple-of-poseidon-7-ef-c89"
+  },
+  "/docs/database/MangrovesClass/The Acid Alps-f8d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-the-acid-alpsdc-9-fa8"
+  },
+  "/docs/database/MangrovesClass/The Arena-27b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-the-arena-561-dc4"
+  },
+  "/docs/database/MangrovesClass/The Cave-953": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-the-cave-741-04a"
+  },
+  "/docs/database/MangrovesClass/The Ecosystem-154": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-the-ecosystem-5-b-0-bfd"
+  },
+  "/docs/database/MangrovesClass/The Fish Tank-aec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-the-fish-tank-0-ae-380"
+  },
+  "/docs/database/MangrovesClass/The Fox Den-db7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-the-fox-den-6-a-6-d75"
+  },
+  "/docs/database/MangrovesClass/The Hallucination-edc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-the-hallucination-514-352"
+  },
+  "/docs/database/MangrovesClass/The Solar Eclipse-46f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-the-solar-eclipse-560-90f"
+  },
+  "/docs/database/MangrovesClass/The Supernova-ec8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-the-supernovac-4-f-0e7"
+  },
+  "/docs/database/MangrovesClass/The Terrarium-406": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-the-terrariumb-94-968"
+  },
+  "/docs/database/MangrovesClass/The Wardens Den-d71": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-the-wardens-den-733-039"
+  },
+  "/docs/database/MangrovesClass/Ton 618-d6b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-ton-618662-732"
+  },
+  "/docs/database/MangrovesClass/Vault Z-686": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-vault-zb-46-cbc"
+  },
+  "/docs/database/MangrovesClass/Velox-2e3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-velox-925-bec"
+  },
+  "/docs/database/MangrovesClass/Vulcans Tower-21b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-vulcans-towera-6-d-992"
+  },
+  "/docs/database/MangrovesClass/Vulcans Vengeance-b63": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-vulcans-vengeance-8-cd-978"
+  },
+  "/docs/database/MangrovesClass/Y-Positive-5df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-y-positivef-3-e-000"
+  },
+  "/docs/database/MangrovesClass/Yoxy Vault-90b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-mangroves-class-yoxy-vault-77-f-22a"
+  },
+  "/docs/database/PandoraClass/Admins Vault-570": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-admins-vault-906-8f1"
+  },
+  "/docs/database/PandoraClass/Apollos Vault-3d2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-apollos-vault-259-b02"
+  },
+  "/docs/database/PandoraClass/Apollos Vault2-6b1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-apollos-vault-234-f-968"
+  },
+  "/docs/database/PandoraClass/Ares Vault-08e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-ares-vaulta-56-eb8"
+  },
+  "/docs/database/PandoraClass/Ares Vault2-671": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-ares-vault-283-e-4c8"
+  },
+  "/docs/database/PandoraClass/Bifrost Complex-268": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-bifrost-complexca-7-7c1"
+  },
+  "/docs/database/PandoraClass/Chytons Vault-1d0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-chytons-vault-9-f-5-2cf"
+  },
+  "/docs/database/PandoraClass/Creavault-497": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-creavaultbc-5-b15"
+  },
+  "/docs/database/PandoraClass/Demonic Vault-508": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-demonic-vaultdf-4-622"
+  },
+  "/docs/database/PandoraClass/Devils Vault-d59": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-devils-vaultc-1-d-7ff"
+  },
+  "/docs/database/PandoraClass/Glaciers Orb-021": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-glaciers-orba-8-c-08c"
+  },
+  "/docs/database/PandoraClass/Guardians Vault-510": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-guardians-vault-94-f-a78"
+  },
+  "/docs/database/PandoraClass/Hades Vault-0fb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-hades-vault-746-d2c"
+  },
+  "/docs/database/PandoraClass/Hestias Grave-b91": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-hestias-grave-5-f-3-53d"
+  },
+  "/docs/database/PandoraClass/Nyxes Vault-f44": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-nyxes-vaulta-04-165"
+  },
+  "/docs/database/PandoraClass/Odysseus Vault-332": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-odysseus-vaultbeb-558"
+  },
+  "/docs/database/PandoraClass/Olympus Stronghold-3c5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-olympus-stronghold-5-a-0-72c"
+  },
+  "/docs/database/PandoraClass/Pandoras Vault-257": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-pandoras-vaultb-5-f-701"
+  },
+  "/docs/database/PandoraClass/Perception Vault-533": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-perception-vault-340-0a5"
+  },
+  "/docs/database/PandoraClass/Poseidons Vault-fc3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-poseidons-vaultb-04-e41"
+  },
+  "/docs/database/PandoraClass/Tartarus-670": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-tartarus-852-d99"
+  },
+  "/docs/database/PandoraClass/The Alpha-406": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-the-alpha-1-c-2-26e"
+  },
+  "/docs/database/PandoraClass/The Black Hole-c80": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-the-black-hole-167-18c"
+  },
+  "/docs/database/PandoraClass/The Chaos-d75": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-the-chaosd-2-d-cde"
+  },
+  "/docs/database/PandoraClass/The Cuckoos Nest-ef6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-the-cuckoos-nest-339-9b8"
+  },
+  "/docs/database/PandoraClass/The Ender Chest-fc6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-the-ender-chesta-5-d-fac"
+  },
+  "/docs/database/PandoraClass/The Fortress-c21": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-the-fortress-6-e-4-6fd"
+  },
+  "/docs/database/PandoraClass/The Obelisk-b3a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-the-obelisk-7-eb-482"
+  },
+  "/docs/database/PandoraClass/Titans Vault-412": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-titans-vault-46-b-c64"
+  },
+  "/docs/database/PandoraClass/Tomb of Anubis-071": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-tomb-of-anubisae-1-ada"
+  },
+  "/docs/database/PandoraClass/Zeus Vault-a2f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-pandora-class-zeus-vault-13-d-8ed"
+  },
+  "/docs/database/synopsis-472": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-synopsis-0-c-4-03f"
+  },
+  "/docs/intro-853": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
   },
-  "/docs/tutorial-basics/congratulations-458": {
+  "/docs/resources/Glossary/general-24c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-congratulations-822-958"
+    "content": "content---docs-resources-glossary-general-68-a-0c0"
   },
-  "/docs/tutorial-basics/create-a-blog-post-108": {
+  "/docs/resources/synopsis-4e8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
+    "content": "content---docs-resources-synopsis-69-a-21b"
   },
-  "/docs/tutorial-basics/create-a-document-8fc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
-  },
-  "/docs/tutorial-basics/create-a-page-951": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
-  },
-  "/docs/tutorial-basics/deploy-your-site-4f5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
-  },
-  "/docs/tutorial-basics/markdown-features-b05": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
-  },
-  "/docs/tutorial-extras/manage-docs-versions-978": {
+  "/docs/tutorial-extras/manage-docs-versions-a34": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
   },
-  "/docs/tutorial-extras/translate-your-site-f9a": {
+  "/docs/tutorial-extras/translate-your-site-739": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
   },

@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Poseidon's Vault Upgraded",
+  "title": "Poseidon's Vault Upgraded",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Poseidon's Vault Upgraded.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Poseidon's Vault Upgraded",
+  "permalink": "/docs/database/EleosClass/Poseidon's Vault Upgraded",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Poseidon's Vault Upgraded.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Pandora's Vault Upgrade",
+    "permalink": "/docs/database/EleosClass/Pandora's Vault Upgrade"
+  },
+  "next": {
+    "title": "Pumpkin Prison",
+    "permalink": "/docs/database/EleosClass/Pumpkin Prison"
+  }
+}

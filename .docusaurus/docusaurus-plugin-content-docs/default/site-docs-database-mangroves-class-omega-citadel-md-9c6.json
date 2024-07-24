@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Omega Citadel",
+  "title": "Omega Citadel",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Omega Citadel.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Omega Citadel",
+  "permalink": "/docs/database/MangrovesClass/Omega Citadel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Omega Citadel.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Obitus",
+    "permalink": "/docs/database/MangrovesClass/Obitus"
+  },
+  "next": {
+    "title": "P-69",
+    "permalink": "/docs/database/MangrovesClass/P-69"
+  }
+}

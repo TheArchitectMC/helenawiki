@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Trying Its Best Vault",
+  "title": "Trying Its Best Vault",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Trying Its Best Vault.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Trying Its Best Vault",
+  "permalink": "/docs/database/EleosClass/Trying Its Best Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Trying Its Best Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Tigers Cage",
+    "permalink": "/docs/database/EleosClass/Tigers Cage"
+  },
+  "next": {
+    "title": "Typhons Vault",
+    "permalink": "/docs/database/EleosClass/Typhons Vault"
+  }
+}

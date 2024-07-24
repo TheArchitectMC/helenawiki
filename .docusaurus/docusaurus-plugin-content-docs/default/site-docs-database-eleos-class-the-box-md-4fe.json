@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/The Box",
+  "title": "The Box",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/The Box.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/The Box",
+  "permalink": "/docs/database/EleosClass/The Box",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/The Box.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Basalt Vault",
+    "permalink": "/docs/database/EleosClass/The Basalt Vault"
+  },
+  "next": {
+    "title": "The Cosmos",
+    "permalink": "/docs/database/EleosClass/The Cosmos"
+  }
+}

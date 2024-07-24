@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/RAvenge",
+  "title": "RAvenge",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/RAvenge.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/RAvenge",
+  "permalink": "/docs/database/MangrovesClass/RAvenge",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/RAvenge.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Project 113",
+    "permalink": "/docs/database/MangrovesClass/Project 113"
+  },
+  "next": {
+    "title": "Rating System Vault",
+    "permalink": "/docs/database/MangrovesClass/Rating System Vault"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Temple Of Poseidon",
+  "title": "Temple Of Poseidon",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Temple Of Poseidon.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Temple Of Poseidon",
+  "permalink": "/docs/database/MangrovesClass/Temple Of Poseidon",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Temple Of Poseidon.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Survival Prison Speedrun",
+    "permalink": "/docs/database/MangrovesClass/Survival Prison Speedrun"
+  },
+  "next": {
+    "title": "The Acid Alps",
+    "permalink": "/docs/database/MangrovesClass/The Acid Alps"
+  }
+}

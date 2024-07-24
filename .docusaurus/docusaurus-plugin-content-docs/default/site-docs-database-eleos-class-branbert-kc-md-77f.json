@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Branbert KC",
+  "title": "Branbert KC",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Branbert KC.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Branbert KC",
+  "permalink": "/docs/database/EleosClass/Branbert KC",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Branbert KC.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "B Vault",
+    "permalink": "/docs/database/EleosClass/B Vault"
+  },
+  "next": {
+    "title": "Brunels Engine",
+    "permalink": "/docs/database/EleosClass/Brunels Engine"
+  }
+}

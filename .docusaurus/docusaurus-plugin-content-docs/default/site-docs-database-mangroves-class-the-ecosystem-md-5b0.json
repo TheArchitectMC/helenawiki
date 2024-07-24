@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/The Ecosystem",
+  "title": "The Ecosystem",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/The Ecosystem.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/The Ecosystem",
+  "permalink": "/docs/database/MangrovesClass/The Ecosystem",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/The Ecosystem.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Cave",
+    "permalink": "/docs/database/MangrovesClass/The Cave"
+  },
+  "next": {
+    "title": "The Fish Tank",
+    "permalink": "/docs/database/MangrovesClass/The Fish Tank"
+  }
+}

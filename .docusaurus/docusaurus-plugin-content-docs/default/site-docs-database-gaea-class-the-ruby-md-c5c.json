@@ -1,0 +1,24 @@
+{
+  "id": "database/GaeaClass/The Ruby",
+  "title": "The Ruby",
+  "description": "",
+  "source": "@site/docs/database/GaeaClass/The Ruby.md",
+  "sourceDirName": "database/GaeaClass",
+  "slug": "/database/GaeaClass/The Ruby",
+  "permalink": "/docs/database/GaeaClass/The Ruby",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/GaeaClass/The Ruby.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Pyramid",
+    "permalink": "/docs/database/GaeaClass/The Pyramid"
+  },
+  "next": {
+    "title": "Ursa Major",
+    "permalink": "/docs/database/GaeaClass/Ursa Major"
+  }
+}

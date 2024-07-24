@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Cathedrals Faith",
+  "title": "Cathedrals Faith",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Cathedrals Faith.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Cathedrals Faith",
+  "permalink": "/docs/database/MangrovesClass/Cathedrals Faith",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Cathedrals Faith.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Catboys Smoller",
+    "permalink": "/docs/database/MangrovesClass/Catboys Smoller"
+  },
+  "next": {
+    "title": "Cherry Wood Eye",
+    "permalink": "/docs/database/MangrovesClass/Cherry Wood Eye"
+  }
+}
