@@ -1,0 +1,26 @@
+{
+  "id": "database/NeonClass/intro",
+  "title": "Hello from Docusaurus",
+  "description": "Create a doc page with rich content.",
+  "source": "@site/docs/database/NeonClass/intro.md",
+  "sourceDirName": "database/NeonClass",
+  "slug": "/database/NeonClass/intro",
+  "permalink": "/docs/database/NeonClass/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/NeonClass/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Create a doc page with rich content."
+  },
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Yoxy Vault",
+    "permalink": "/docs/database/MangrovesClass/Yoxy Vault"
+  },
+  "next": {
+    "title": "Admins Vault",
+    "permalink": "/docs/database/PandoraClass/Admins Vault"
+  }
+}

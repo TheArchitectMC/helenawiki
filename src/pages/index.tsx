@@ -22,17 +22,14 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
-        </div>
       </div>
     </header>
   );
 }
+
+<div style={{backgroundColor: 'violet', padding: '1rem'}}>
+  Try and change the background color to `tomato`.
+</div>
 
 export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
@@ -42,7 +39,17 @@ export default function Home(): JSX.Element {
       description="About Helena's wiki<head />">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        
+      <div className={styles.faded}>
+        <section className="home">
+          <img src="./img/test-min.png" width="auto" height="auto"/>
+            <div className="home__container">
+              <h1>Get informed on stuff?</h1>
+              <h3>we've got you corvered!</h3>
+            </div>
+          <div className={styles.title}>Centered</div>
+          </section>
+        </div>
       </main>
     </Layout>
   );

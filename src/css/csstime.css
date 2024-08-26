@@ -1,0 +1,13 @@
+.test
+{
+    background: #0084ff;
+    background: linear-gradient(90deg,#0084ff 0%, #ff00dc 80%);
+    background: -webkit-linear-gradient(90deg,#0084ff 0%, #ff00dc 80%);
+    background: -moz-linear-gradient(90deg,#0084ff 0%, #ff00dc 80%);
+}
+.heroBanner2 {
+    padding: 4rem 0;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }

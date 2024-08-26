@@ -26,7 +26,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\test\\Desktop\\Docs\\helenawiki\\wiki\\sidebars.ts",
+          "sidebarPath": "C:\\Users\\test\\Desktop\\Desktop2\\Docs\\helenawiki\\wiki\\sidebars.ts",
           "editUrl": "https://github.com/TheArchitectMC/helenawiki"
         },
         "blog": {
@@ -34,14 +34,14 @@ export default {
           "editUrl": "https://github.com/TheArchitectMC/helenawiki"
         },
         "theme": {
-          "customCss": "C:\\Users\\test\\Desktop\\Docs\\helenawiki\\wiki\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\test\\Desktop\\Desktop2\\Docs\\helenawiki\\wiki\\src\\css\\custom.css"
         }
       }
     ]
   ],
   "themes": [
     [
-      "C:\\Users\\test\\Desktop\\Docs\\helenawiki\\wiki\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
+      "C:\\Users\\test\\Desktop\\Desktop2\\Docs\\helenawiki\\wiki\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
       {
         "hashed": true
       }
