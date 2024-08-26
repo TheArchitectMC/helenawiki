@@ -1,0 +1,24 @@
+{
+  "id": "database/GaeaClass/Gaias Vault",
+  "title": "Gaias Vault",
+  "description": "",
+  "source": "@site/docs/database/GaeaClass/Gaias Vault.md",
+  "sourceDirName": "database/GaeaClass",
+  "slug": "/database/GaeaClass/Gaias Vault",
+  "permalink": "/docs/database/GaeaClass/Gaias Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/GaeaClass/Gaias Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Erebus Abyss",
+    "permalink": "/docs/database/GaeaClass/Erebus Abyss"
+  },
+  "next": {
+    "title": "Gleipnir",
+    "permalink": "/docs/database/GaeaClass/Gleipnir"
+  }
+}

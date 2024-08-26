@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Wesleys BOX",
+  "title": "Wesleys BOX",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Wesleys BOX.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Wesleys BOX",
+  "permalink": "/docs/database/EleosClass/Wesleys BOX",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Wesleys BOX.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Vault X",
+    "permalink": "/docs/database/EleosClass/Vault X"
+  },
+  "next": {
+    "title": "Zero Tick Melon",
+    "permalink": "/docs/database/EleosClass/Zero Tick Melon"
+  }
+}

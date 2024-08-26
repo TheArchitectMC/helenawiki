@@ -1,0 +1,24 @@
+{
+  "id": "database/GaeaClass/Satans Arch",
+  "title": "Satans Arch",
+  "description": "",
+  "source": "@site/docs/database/GaeaClass/Satans Arch.md",
+  "sourceDirName": "database/GaeaClass",
+  "slug": "/database/GaeaClass/Satans Arch",
+  "permalink": "/docs/database/GaeaClass/Satans Arch",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/GaeaClass/Satans Arch.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Percys Vault",
+    "permalink": "/docs/database/GaeaClass/Percys Vault"
+  },
+  "next": {
+    "title": "Tardos Cone",
+    "permalink": "/docs/database/GaeaClass/Tardos Cone"
+  }
+}

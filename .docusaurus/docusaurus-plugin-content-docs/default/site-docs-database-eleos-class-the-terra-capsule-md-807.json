@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/The Terra Capsule",
+  "title": "The Terra Capsule",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/The Terra Capsule.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/The Terra Capsule",
+  "permalink": "/docs/database/EleosClass/The Terra Capsule",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/The Terra Capsule.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The TNT",
+    "permalink": "/docs/database/EleosClass/The TNT"
+  },
+  "next": {
+    "title": "The Wither Dungeon",
+    "permalink": "/docs/database/EleosClass/The Wither Dungeon"
+  }
+}

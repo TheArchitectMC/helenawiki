@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Auto Rooms",
+  "title": "Auto Rooms",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Auto Rooms.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Auto Rooms",
+  "permalink": "/docs/database/MangrovesClass/Auto Rooms",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Auto Rooms.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Atom Bomb",
+    "permalink": "/docs/database/MangrovesClass/Atom Bomb"
+  },
+  "next": {
+    "title": "Big Citadel",
+    "permalink": "/docs/database/MangrovesClass/Big Citadel"
+  }
+}

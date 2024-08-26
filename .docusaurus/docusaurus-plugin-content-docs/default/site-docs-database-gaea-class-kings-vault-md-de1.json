@@ -1,0 +1,24 @@
+{
+  "id": "database/GaeaClass/Kings Vault",
+  "title": "Kings Vault",
+  "description": "",
+  "source": "@site/docs/database/GaeaClass/Kings Vault.md",
+  "sourceDirName": "database/GaeaClass",
+  "slug": "/database/GaeaClass/Kings Vault",
+  "permalink": "/docs/database/GaeaClass/Kings Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/GaeaClass/Kings Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Kenos",
+    "permalink": "/docs/database/GaeaClass/Kenos"
+  },
+  "next": {
+    "title": "Lucifers Vault",
+    "permalink": "/docs/database/GaeaClass/Lucifers Vault"
+  }
+}

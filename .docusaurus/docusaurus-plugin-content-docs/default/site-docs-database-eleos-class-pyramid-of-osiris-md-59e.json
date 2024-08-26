@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Pyramid of Osiris",
+  "title": "Pyramid of Osiris",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Pyramid of Osiris.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Pyramid of Osiris",
+  "permalink": "/docs/database/EleosClass/Pyramid of Osiris",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Pyramid of Osiris.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Pumpkin Prison",
+    "permalink": "/docs/database/EleosClass/Pumpkin Prison"
+  },
+  "next": {
+    "title": "Ragnarok",
+    "permalink": "/docs/database/EleosClass/Ragnarok"
+  }
+}

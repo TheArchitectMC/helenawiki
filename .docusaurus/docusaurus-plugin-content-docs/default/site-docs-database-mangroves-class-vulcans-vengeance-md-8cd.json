@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Vulcans Vengeance",
+  "title": "Vulcans Vengeance",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Vulcans Vengeance.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Vulcans Vengeance",
+  "permalink": "/docs/database/MangrovesClass/Vulcans Vengeance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Vulcans Vengeance.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Vulcans Tower",
+    "permalink": "/docs/database/MangrovesClass/Vulcans Tower"
+  },
+  "next": {
+    "title": "Y-Positive",
+    "permalink": "/docs/database/MangrovesClass/Y-Positive"
+  }
+}

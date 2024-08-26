@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Loki's Final Vault",
+  "title": "Loki's Final Vault",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Loki's Final Vault.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Loki's Final Vault",
+  "permalink": "/docs/database/EleosClass/Loki's Final Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Loki's Final Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Liliths Temple",
+    "permalink": "/docs/database/EleosClass/Liliths Temple"
+  },
+  "next": {
+    "title": "Medusas Vault",
+    "permalink": "/docs/database/EleosClass/Medusas Vault"
+  }
+}

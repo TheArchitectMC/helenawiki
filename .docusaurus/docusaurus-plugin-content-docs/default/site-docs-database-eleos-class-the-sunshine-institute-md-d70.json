@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/The Sunshine Institute",
+  "title": "The Sunshine Institute",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/The Sunshine Institute.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/The Sunshine Institute",
+  "permalink": "/docs/database/EleosClass/The Sunshine Institute",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/The Sunshine Institute.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Singularity",
+    "permalink": "/docs/database/EleosClass/The Singularity"
+  },
+  "next": {
+    "title": "The TNT",
+    "permalink": "/docs/database/EleosClass/The TNT"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "database/PandoraClass/Admins Vault",
+  "title": "Admins Vault",
+  "description": "",
+  "source": "@site/docs/database/PandoraClass/Admins Vault.md",
+  "sourceDirName": "database/PandoraClass",
+  "slug": "/database/PandoraClass/Admins Vault",
+  "permalink": "/docs/database/PandoraClass/Admins Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/PandoraClass/Admins Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Yoxy Vault",
+    "permalink": "/docs/database/MangrovesClass/Yoxy Vault"
+  },
+  "next": {
+    "title": "Apollos Vault",
+    "permalink": "/docs/database/PandoraClass/Apollos Vault"
+  }
+}

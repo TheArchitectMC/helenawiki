@@ -1,0 +1,20 @@
+{
+  "id": "database/intro",
+  "title": "nothing to see here!",
+  "description": "",
+  "source": "@site/docs/database/intro.md",
+  "sourceDirName": "database",
+  "slug": "/database/intro",
+  "permalink": "/docs/database/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Hello from Docusaurus",
+    "permalink": "/docs/database/DaedalusClass/intro"
+  }
+}

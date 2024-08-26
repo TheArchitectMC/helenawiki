@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/TGWBW Vault",
+  "title": "TGWBW Vault",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/TGWBW Vault.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/TGWBW Vault",
+  "permalink": "/docs/database/EleosClass/TGWBW Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/TGWBW Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Sunters Vault",
+    "permalink": "/docs/database/EleosClass/Sunters Vault"
+  },
+  "next": {
+    "title": "THAW Citadel",
+    "permalink": "/docs/database/EleosClass/THAW Citadel"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Cryofrost Citadel",
+  "title": "Cryofrost Citadel",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Cryofrost Citadel.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Cryofrost Citadel",
+  "permalink": "/docs/database/MangrovesClass/Cryofrost Citadel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Cryofrost Citadel.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Cherry Wood Eye",
+    "permalink": "/docs/database/MangrovesClass/Cherry Wood Eye"
+  },
+  "next": {
+    "title": "Cryofrost Container",
+    "permalink": "/docs/database/MangrovesClass/Cryofrost Container"
+  }
+}

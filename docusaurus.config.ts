@@ -2,6 +2,8 @@ import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 import { PluginOptions } from "@easyops-cn/docusaurus-search-local";
+// import mediumZoom from 'medium-zoom/dist/pure';
+// import 'medium-zoom/dist/style.css'
 
 const config: Config = {
   title: 'Helena',
@@ -35,21 +37,19 @@ const config: Config = {
       'classic',
       {
         docs: {
-          sidebarPath: './sidebars.ts',
+          sidebarPath: require.resolve('./sidebars.ts'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/TheArchitectMC/helenawiki',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/TheArchitectMC/helenawiki',
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: require.resolve('./src/css/custom.css'),
         },
       } satisfies Preset.Options,
     ],
@@ -63,14 +63,28 @@ const config: Config = {
         // `hashed` is recommended as long-term-cache of index file is possible.
         hashed: true,
         // For Docs using Chinese, The `language` is recommended to set to:
-        //        // language: ["en", "zh"],
-        //      } as PluginOptions,
-      }
+        // language: ["en", "zh"],
+      } as Partial<PluginOptions>,
     ],
   ],
 
+  plugins: [
+    'plugin-image-zoom'
+  ],
+
   themeConfig: {
+    imageZoom: {
+      // CSS selector to apply the plugin to, defaults to '.markdown img'
+      selector: '.markdown img',
+      // Optional medium-zoom options
+      // see: https://www.npmjs.com/package/medium-zoom#options
+      options: {
+        margin: 24,
+        scrollOffset: 0,
+      },
+    },
     // Replace with your project's social card
+    
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'Helena',
@@ -79,16 +93,23 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
+        { to: '/blog', label: 'Blog', position: 'left' },
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'databaseSidebar',
+          position: 'left',
+          label: 'Database',
+        },
+        { to: 'faq', label: 'FAQs', position: 'left' },
+        {
+          type: 'docSidebar',
+          sidebarId: 'resourcesSidebar',
           position: 'left',
           label: 'Resources',
         },
-        { to: '/blog', label: 'Blog', position: 'left' },
-        { to: 'about', label: 'About', position: 'left' },
+        { to: 'about', label: 'About', position: 'right' },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/TheArchitectMC/helenawiki',
           label: 'GitHub',
           position: 'right',
         },
@@ -132,7 +153,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/TheArchitectMC/helenawiki',
             },
           ],
         },
@@ -147,5 +168,7 @@ const config: Config = {
 };
 
 export default config;
+
+
 
 

@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/The Cosmos",
+  "title": "The Cosmos",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/The Cosmos.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/The Cosmos",
+  "permalink": "/docs/database/EleosClass/The Cosmos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/The Cosmos.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Box",
+    "permalink": "/docs/database/EleosClass/The Box"
+  },
+  "next": {
+    "title": "The FAACK Rooms",
+    "permalink": "/docs/database/EleosClass/The FAACK Rooms"
+  }
+}

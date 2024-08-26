@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Heavy Vault",
+  "title": "Heavy Vault",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Heavy Vault.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Heavy Vault",
+  "permalink": "/docs/database/MangrovesClass/Heavy Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Heavy Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Game & Watch",
+    "permalink": "/docs/database/MangrovesClass/Game & Watch"
+  },
+  "next": {
+    "title": "Hephaestus' Vault",
+    "permalink": "/docs/database/MangrovesClass/Hephaestus' Vault"
+  }
+}

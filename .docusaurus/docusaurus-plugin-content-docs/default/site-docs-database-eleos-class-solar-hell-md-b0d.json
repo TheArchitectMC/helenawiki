@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Solar Hell",
+  "title": "Solar Hell",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Solar Hell.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Solar Hell",
+  "permalink": "/docs/database/EleosClass/Solar Hell",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Solar Hell.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Snow Grave",
+    "permalink": "/docs/database/EleosClass/Snow Grave"
+  },
+  "next": {
+    "title": "Sunters Vault 2",
+    "permalink": "/docs/database/EleosClass/Sunters Vault 2"
+  }
+}

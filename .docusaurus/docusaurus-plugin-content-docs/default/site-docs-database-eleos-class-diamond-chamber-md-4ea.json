@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Diamond Chamber",
+  "title": "Diamond Chamber",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Diamond Chamber.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Diamond Chamber",
+  "permalink": "/docs/database/EleosClass/Diamond Chamber",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Diamond Chamber.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Delaydalus Labyrinth",
+    "permalink": "/docs/database/EleosClass/Delaydalus Labyrinth"
+  },
+  "next": {
+    "title": "Eleos Citadel",
+    "permalink": "/docs/database/EleosClass/Eleos Citadel"
+  }
+}

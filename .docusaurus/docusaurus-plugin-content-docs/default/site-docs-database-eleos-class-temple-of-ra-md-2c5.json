@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Temple Of Ra",
+  "title": "Temple Of Ra",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Temple Of Ra.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Temple Of Ra",
+  "permalink": "/docs/database/EleosClass/Temple Of Ra",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Temple Of Ra.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "THAW Citadel",
+    "permalink": "/docs/database/EleosClass/THAW Citadel"
+  },
+  "next": {
+    "title": "The Backrooms",
+    "permalink": "/docs/database/EleosClass/The Backrooms"
+  }
+}

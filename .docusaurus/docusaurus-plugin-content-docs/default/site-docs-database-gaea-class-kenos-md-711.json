@@ -1,0 +1,24 @@
+{
+  "id": "database/GaeaClass/Kenos",
+  "title": "Kenos",
+  "description": "",
+  "source": "@site/docs/database/GaeaClass/Kenos.md",
+  "sourceDirName": "database/GaeaClass",
+  "slug": "/database/GaeaClass/Kenos",
+  "permalink": "/docs/database/GaeaClass/Kenos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/GaeaClass/Kenos.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Impel Down",
+    "permalink": "/docs/database/GaeaClass/Impel Down"
+  },
+  "next": {
+    "title": "Kings Vault",
+    "permalink": "/docs/database/GaeaClass/Kings Vault"
+  }
+}

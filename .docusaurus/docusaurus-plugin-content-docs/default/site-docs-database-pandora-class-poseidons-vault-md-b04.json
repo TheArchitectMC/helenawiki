@@ -1,0 +1,24 @@
+{
+  "id": "database/PandoraClass/Poseidons Vault",
+  "title": "Poseidons Vault",
+  "description": "",
+  "source": "@site/docs/database/PandoraClass/Poseidons Vault.md",
+  "sourceDirName": "database/PandoraClass",
+  "slug": "/database/PandoraClass/Poseidons Vault",
+  "permalink": "/docs/database/PandoraClass/Poseidons Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/PandoraClass/Poseidons Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Perception Vault",
+    "permalink": "/docs/database/PandoraClass/Perception Vault"
+  },
+  "next": {
+    "title": "Tartarus",
+    "permalink": "/docs/database/PandoraClass/Tartarus"
+  }
+}

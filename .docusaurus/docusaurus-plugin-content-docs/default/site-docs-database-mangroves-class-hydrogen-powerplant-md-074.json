@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Hydrogen Powerplant",
+  "title": "Hydrogen Powerplant",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Hydrogen Powerplant.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Hydrogen Powerplant",
+  "permalink": "/docs/database/MangrovesClass/Hydrogen Powerplant",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Hydrogen Powerplant.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Hephaestus' Vault",
+    "permalink": "/docs/database/MangrovesClass/Hephaestus' Vault"
+  },
+  "next": {
+    "title": "Iron Cage",
+    "permalink": "/docs/database/MangrovesClass/Iron Cage"
+  }
+}

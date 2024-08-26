@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Ragnarok",
+  "title": "Ragnarok",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Ragnarok.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Ragnarok",
+  "permalink": "/docs/database/EleosClass/Ragnarok",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Ragnarok.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Pyramid of Osiris",
+    "permalink": "/docs/database/EleosClass/Pyramid of Osiris"
+  },
+  "next": {
+    "title": "Raijins Leven",
+    "permalink": "/docs/database/EleosClass/Raijins Leven"
+  }
+}

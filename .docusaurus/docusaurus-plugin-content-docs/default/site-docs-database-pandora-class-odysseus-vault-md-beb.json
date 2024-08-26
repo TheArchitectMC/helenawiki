@@ -1,0 +1,24 @@
+{
+  "id": "database/PandoraClass/Odysseus Vault",
+  "title": "Odysseus Vault",
+  "description": "",
+  "source": "@site/docs/database/PandoraClass/Odysseus Vault.md",
+  "sourceDirName": "database/PandoraClass",
+  "slug": "/database/PandoraClass/Odysseus Vault",
+  "permalink": "/docs/database/PandoraClass/Odysseus Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/PandoraClass/Odysseus Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Nyxes Vault",
+    "permalink": "/docs/database/PandoraClass/Nyxes Vault"
+  },
+  "next": {
+    "title": "Olympus Stronghold",
+    "permalink": "/docs/database/PandoraClass/Olympus Stronghold"
+  }
+}

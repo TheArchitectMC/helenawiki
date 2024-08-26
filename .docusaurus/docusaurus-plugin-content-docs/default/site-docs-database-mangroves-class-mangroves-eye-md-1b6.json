@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Mangroves Eye",
+  "title": "Mangroves Eye",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Mangroves Eye.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Mangroves Eye",
+  "permalink": "/docs/database/MangrovesClass/Mangroves Eye",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Mangroves Eye.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Kenadians Small Prisons",
+    "permalink": "/docs/database/MangrovesClass/Kenadians Small Prisons"
+  },
+  "next": {
+    "title": "Minimum Wage Vault",
+    "permalink": "/docs/database/MangrovesClass/Minimum Wage Vault"
+  }
+}

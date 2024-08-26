@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Kenadians Small Prisons",
+  "title": "Kenadians Small Prisons",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Kenadians Small Prisons.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Kenadians Small Prisons",
+  "permalink": "/docs/database/MangrovesClass/Kenadians Small Prisons",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Kenadians Small Prisons.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "James Vault",
+    "permalink": "/docs/database/MangrovesClass/James Vault"
+  },
+  "next": {
+    "title": "Mangroves Eye",
+    "permalink": "/docs/database/MangrovesClass/Mangroves Eye"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Project 113",
+  "title": "Project 113",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Project 113.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Project 113",
+  "permalink": "/docs/database/MangrovesClass/Project 113",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Project 113.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Piglins Crater",
+    "permalink": "/docs/database/MangrovesClass/Piglins Crater"
+  },
+  "next": {
+    "title": "RAvenge",
+    "permalink": "/docs/database/MangrovesClass/RAvenge"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/The Hadron",
+  "title": "The Hadron",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/The Hadron.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/The Hadron",
+  "permalink": "/docs/database/EleosClass/The Hadron",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/The Hadron.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The FAACK Rooms",
+    "permalink": "/docs/database/EleosClass/The FAACK Rooms"
+  },
+  "next": {
+    "title": "The Lock",
+    "permalink": "/docs/database/EleosClass/The Lock"
+  }
+}

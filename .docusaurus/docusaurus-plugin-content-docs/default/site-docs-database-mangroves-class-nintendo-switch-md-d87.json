@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Nintendo Switch",
+  "title": "Nintendo Switch",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Nintendo Switch.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Nintendo Switch",
+  "permalink": "/docs/database/MangrovesClass/Nintendo Switch",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Nintendo Switch.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Nintendo Switch Lite",
+    "permalink": "/docs/database/MangrovesClass/Nintendo Switch Lite"
+  },
+  "next": {
+    "title": "Obitus",
+    "permalink": "/docs/database/MangrovesClass/Obitus"
+  }
+}

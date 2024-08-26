@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Solitude's Solstice",
+  "title": "Solitude's Solstice",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Solitude's Solstice.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Solitude's Solstice",
+  "permalink": "/docs/database/MangrovesClass/Solitude's Solstice",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Solitude's Solstice.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Snack Fridge",
+    "permalink": "/docs/database/MangrovesClass/Snack Fridge"
+  },
+  "next": {
+    "title": "Stormable",
+    "permalink": "/docs/database/MangrovesClass/Stormable"
+  }
+}

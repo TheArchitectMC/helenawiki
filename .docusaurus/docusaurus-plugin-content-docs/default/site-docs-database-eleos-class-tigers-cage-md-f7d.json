@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Tigers Cage",
+  "title": "Tigers Cage",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Tigers Cage.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Tigers Cage",
+  "permalink": "/docs/database/EleosClass/Tigers Cage",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Tigers Cage.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Wither Dungeon",
+    "permalink": "/docs/database/EleosClass/The Wither Dungeon"
+  },
+  "next": {
+    "title": "Trying Its Best Vault",
+    "permalink": "/docs/database/EleosClass/Trying Its Best Vault"
+  }
+}

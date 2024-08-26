@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Rock Bottom",
+  "title": "Rock Bottom",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Rock Bottom.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Rock Bottom",
+  "permalink": "/docs/database/EleosClass/Rock Bottom",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Rock Bottom.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Rheas Final Prism",
+    "permalink": "/docs/database/EleosClass/Rheas Final Prism"
+  },
+  "next": {
+    "title": "Sedimentary Penitentiary",
+    "permalink": "/docs/database/EleosClass/Sedimentary Penitentiary"
+  }
+}

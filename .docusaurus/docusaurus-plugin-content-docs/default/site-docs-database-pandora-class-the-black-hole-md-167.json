@@ -1,0 +1,24 @@
+{
+  "id": "database/PandoraClass/The Black Hole",
+  "title": "The Black Hole",
+  "description": "",
+  "source": "@site/docs/database/PandoraClass/The Black Hole.md",
+  "sourceDirName": "database/PandoraClass",
+  "slug": "/database/PandoraClass/The Black Hole",
+  "permalink": "/docs/database/PandoraClass/The Black Hole",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/PandoraClass/The Black Hole.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Alpha",
+    "permalink": "/docs/database/PandoraClass/The Alpha"
+  },
+  "next": {
+    "title": "The Chaos",
+    "permalink": "/docs/database/PandoraClass/The Chaos"
+  }
+}

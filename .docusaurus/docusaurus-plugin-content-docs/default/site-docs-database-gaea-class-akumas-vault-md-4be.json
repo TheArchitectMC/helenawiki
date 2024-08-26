@@ -1,0 +1,24 @@
+{
+  "id": "database/GaeaClass/Akumas Vault",
+  "title": "Akumas Vault",
+  "description": "",
+  "source": "@site/docs/database/GaeaClass/Akumas Vault.md",
+  "sourceDirName": "database/GaeaClass",
+  "slug": "/database/GaeaClass/Akumas Vault",
+  "permalink": "/docs/database/GaeaClass/Akumas Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/GaeaClass/Akumas Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Zero Tick Melon",
+    "permalink": "/docs/database/EleosClass/Zero Tick Melon"
+  },
+  "next": {
+    "title": "Apollos Vault",
+    "permalink": "/docs/database/GaeaClass/Apollos Vault"
+  }
+}

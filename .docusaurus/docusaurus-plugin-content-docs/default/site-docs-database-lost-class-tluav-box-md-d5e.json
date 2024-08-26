@@ -1,0 +1,24 @@
+{
+  "id": "database/LostClass/Tluav Box",
+  "title": "Tluav Box",
+  "description": "",
+  "source": "@site/docs/database/LostClass/Tluav Box.md",
+  "sourceDirName": "database/LostClass",
+  "slug": "/database/LostClass/Tluav Box",
+  "permalink": "/docs/database/LostClass/Tluav Box",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/LostClass/Tluav Box.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Omega Vault",
+    "permalink": "/docs/database/LostClass/The Omega Vault"
+  },
+  "next": {
+    "title": "Typhons Column",
+    "permalink": "/docs/database/LostClass/Typhons Column"
+  }
+}

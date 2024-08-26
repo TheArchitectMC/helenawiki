@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Raijins Leven",
+  "title": "Raijins Leven",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Raijins Leven.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Raijins Leven",
+  "permalink": "/docs/database/EleosClass/Raijins Leven",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Raijins Leven.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Ragnarok",
+    "permalink": "/docs/database/EleosClass/Ragnarok"
+  },
+  "next": {
+    "title": "Ravens Coffin",
+    "permalink": "/docs/database/EleosClass/Ravens Coffin"
+  }
+}

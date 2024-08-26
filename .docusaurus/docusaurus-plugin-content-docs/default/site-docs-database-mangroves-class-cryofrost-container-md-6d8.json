@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Cryofrost Container",
+  "title": "Cryofrost Container",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Cryofrost Container.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Cryofrost Container",
+  "permalink": "/docs/database/MangrovesClass/Cryofrost Container",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Cryofrost Container.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Cryofrost Citadel",
+    "permalink": "/docs/database/MangrovesClass/Cryofrost Citadel"
+  },
+  "next": {
+    "title": "Diktaean Cave",
+    "permalink": "/docs/database/MangrovesClass/Diktaean Cave"
+  }
+}

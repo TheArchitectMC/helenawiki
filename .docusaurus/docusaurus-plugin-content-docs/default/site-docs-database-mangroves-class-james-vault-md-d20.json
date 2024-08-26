@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/James Vault",
+  "title": "James Vault",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/James Vault.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/James Vault",
+  "permalink": "/docs/database/MangrovesClass/James Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/James Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Iron Cage",
+    "permalink": "/docs/database/MangrovesClass/Iron Cage"
+  },
+  "next": {
+    "title": "Kenadians Small Prisons",
+    "permalink": "/docs/database/MangrovesClass/Kenadians Small Prisons"
+  }
+}

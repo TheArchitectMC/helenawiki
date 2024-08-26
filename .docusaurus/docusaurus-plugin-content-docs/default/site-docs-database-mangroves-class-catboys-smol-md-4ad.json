@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Catboys Smol",
+  "title": "Catboys Smol",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Catboys Smol.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Catboys Smol",
+  "permalink": "/docs/database/MangrovesClass/Catboys Smol",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Catboys Smol.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Catalocke",
+    "permalink": "/docs/database/MangrovesClass/Catalocke"
+  },
+  "next": {
+    "title": "Catboys Smoller",
+    "permalink": "/docs/database/MangrovesClass/Catboys Smoller"
+  }
+}

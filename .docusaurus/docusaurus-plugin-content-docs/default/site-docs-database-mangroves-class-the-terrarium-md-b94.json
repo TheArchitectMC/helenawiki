@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/The Terrarium",
+  "title": "The Terrarium",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/The Terrarium.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/The Terrarium",
+  "permalink": "/docs/database/MangrovesClass/The Terrarium",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/The Terrarium.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Supernova",
+    "permalink": "/docs/database/MangrovesClass/The Supernova"
+  },
+  "next": {
+    "title": "The Wardens Den",
+    "permalink": "/docs/database/MangrovesClass/The Wardens Den"
+  }
+}

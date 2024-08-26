@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Lilith's Temple",
+  "title": "Lilith's Temple",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Lilith's Temple.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Lilith's Temple",
+  "permalink": "/docs/database/EleosClass/Lilith's Temple",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Lilith's Temple.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Kojins Hearth",
+    "permalink": "/docs/database/EleosClass/Kojins Hearth"
+  },
+  "next": {
+    "title": "Loki's Final Vault",
+    "permalink": "/docs/database/EleosClass/Loki's Final Vault"
+  }
+}

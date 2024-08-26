@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Inescapable Cake",
+  "title": "Inescapable Cake",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Inescapable Cake.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Inescapable Cake",
+  "permalink": "/docs/database/EleosClass/Inescapable Cake",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Inescapable Cake.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Icarus Tomb",
+    "permalink": "/docs/database/EleosClass/Icarus Tomb"
+  },
+  "next": {
+    "title": "Kojins Hearth",
+    "permalink": "/docs/database/EleosClass/Kojins Hearth"
+  }
+}

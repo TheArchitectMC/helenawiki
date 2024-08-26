@@ -1,0 +1,24 @@
+{
+  "id": "database/GaeaClass/Lucifers Vault",
+  "title": "Lucifers Vault",
+  "description": "",
+  "source": "@site/docs/database/GaeaClass/Lucifers Vault.md",
+  "sourceDirName": "database/GaeaClass",
+  "slug": "/database/GaeaClass/Lucifers Vault",
+  "permalink": "/docs/database/GaeaClass/Lucifers Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/GaeaClass/Lucifers Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Kings Vault",
+    "permalink": "/docs/database/GaeaClass/Kings Vault"
+  },
+  "next": {
+    "title": "Meteorite Prison",
+    "permalink": "/docs/database/GaeaClass/Meteorite Prison"
+  }
+}

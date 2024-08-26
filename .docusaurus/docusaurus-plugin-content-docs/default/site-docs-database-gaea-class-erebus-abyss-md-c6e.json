@@ -1,0 +1,24 @@
+{
+  "id": "database/GaeaClass/Erebus Abyss",
+  "title": "Erebus Abyss",
+  "description": "",
+  "source": "@site/docs/database/GaeaClass/Erebus Abyss.md",
+  "sourceDirName": "database/GaeaClass",
+  "slug": "/database/GaeaClass/Erebus Abyss",
+  "permalink": "/docs/database/GaeaClass/Erebus Abyss",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/GaeaClass/Erebus Abyss.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Cleopatras Tomb",
+    "permalink": "/docs/database/GaeaClass/Cleopatras Tomb"
+  },
+  "next": {
+    "title": "Gaias Vault",
+    "permalink": "/docs/database/GaeaClass/Gaias Vault"
+  }
+}

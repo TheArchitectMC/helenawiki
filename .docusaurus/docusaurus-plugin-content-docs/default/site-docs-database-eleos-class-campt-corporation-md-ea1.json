@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/CAMPT Corporation",
+  "title": "CAMPT Corporation",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/CAMPT Corporation.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/CAMPT Corporation",
+  "permalink": "/docs/database/EleosClass/CAMPT Corporation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/CAMPT Corporation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Brunels Engine",
+    "permalink": "/docs/database/EleosClass/Brunels Engine"
+  },
+  "next": {
+    "title": "Catboys Crib",
+    "permalink": "/docs/database/EleosClass/Catboys Crib"
+  }
+}

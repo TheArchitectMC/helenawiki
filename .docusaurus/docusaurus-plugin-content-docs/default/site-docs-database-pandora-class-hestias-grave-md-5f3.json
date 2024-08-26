@@ -1,0 +1,24 @@
+{
+  "id": "database/PandoraClass/Hestias Grave",
+  "title": "Hestias Grave",
+  "description": "",
+  "source": "@site/docs/database/PandoraClass/Hestias Grave.md",
+  "sourceDirName": "database/PandoraClass",
+  "slug": "/database/PandoraClass/Hestias Grave",
+  "permalink": "/docs/database/PandoraClass/Hestias Grave",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/PandoraClass/Hestias Grave.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Hades Vault",
+    "permalink": "/docs/database/PandoraClass/Hades Vault"
+  },
+  "next": {
+    "title": "Nyxes Vault",
+    "permalink": "/docs/database/PandoraClass/Nyxes Vault"
+  }
+}

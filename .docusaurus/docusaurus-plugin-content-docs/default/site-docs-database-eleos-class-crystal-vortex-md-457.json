@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Crystal Vortex",
+  "title": "Crystal Vortex",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Crystal Vortex.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Crystal Vortex",
+  "permalink": "/docs/database/EleosClass/Crystal Vortex",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Crystal Vortex.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Cold Blooded Citadel",
+    "permalink": "/docs/database/EleosClass/Cold Blooded Citadel"
+  },
+  "next": {
+    "title": "Daedalus Labyrinth",
+    "permalink": "/docs/database/EleosClass/Daedalus Labyrinth"
+  }
+}

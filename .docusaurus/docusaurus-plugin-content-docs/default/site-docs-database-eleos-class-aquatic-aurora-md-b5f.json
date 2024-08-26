@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Aquatic Aurora",
+  "title": "Aquatic Aurora",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Aquatic Aurora.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Aquatic Aurora",
+  "permalink": "/docs/database/EleosClass/Aquatic Aurora",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Aquatic Aurora.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Apheleias Temple",
+    "permalink": "/docs/database/EleosClass/Apheleias Temple"
+  },
+  "next": {
+    "title": "Arctic Bastion 21",
+    "permalink": "/docs/database/EleosClass/Arctic Bastion 21"
+  }
+}

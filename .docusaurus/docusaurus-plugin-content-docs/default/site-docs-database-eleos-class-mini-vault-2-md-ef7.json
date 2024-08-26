@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Mini Vault 2",
+  "title": "Mini Vault 2",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Mini Vault 2.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Mini Vault 2",
+  "permalink": "/docs/database/EleosClass/Mini Vault 2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Mini Vault 2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Minervas Vault",
+    "permalink": "/docs/database/EleosClass/Minervas Vault"
+  },
+  "next": {
+    "title": "Mount Everest",
+    "permalink": "/docs/database/EleosClass/Mount Everest"
+  }
+}

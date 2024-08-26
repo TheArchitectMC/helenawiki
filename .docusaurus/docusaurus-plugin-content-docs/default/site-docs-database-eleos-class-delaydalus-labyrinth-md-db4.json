@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Delaydalus Labyrinth",
+  "title": "Delaydalus Labyrinth",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Delaydalus Labyrinth.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Delaydalus Labyrinth",
+  "permalink": "/docs/database/EleosClass/Delaydalus Labyrinth",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Delaydalus Labyrinth.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Deimos Prism",
+    "permalink": "/docs/database/EleosClass/Deimos Prism"
+  },
+  "next": {
+    "title": "Diamond Chamber",
+    "permalink": "/docs/database/EleosClass/Diamond Chamber"
+  }
+}

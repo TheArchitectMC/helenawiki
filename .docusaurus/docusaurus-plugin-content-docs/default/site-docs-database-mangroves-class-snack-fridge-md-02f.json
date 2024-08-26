@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Snack Fridge",
+  "title": "Snack Fridge",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Snack Fridge.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Snack Fridge",
+  "permalink": "/docs/database/MangrovesClass/Snack Fridge",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Snack Fridge.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Ravens Revenge",
+    "permalink": "/docs/database/MangrovesClass/Ravens Revenge"
+  },
+  "next": {
+    "title": "Solitude's Solstice",
+    "permalink": "/docs/database/MangrovesClass/Solitude's Solstice"
+  }
+}

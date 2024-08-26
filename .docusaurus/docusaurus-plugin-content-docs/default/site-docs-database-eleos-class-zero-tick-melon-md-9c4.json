@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Zero Tick Melon",
+  "title": "Zero Tick Melon",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Zero Tick Melon.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Zero Tick Melon",
+  "permalink": "/docs/database/EleosClass/Zero Tick Melon",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Zero Tick Melon.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Wesleys BOX",
+    "permalink": "/docs/database/EleosClass/Wesleys BOX"
+  },
+  "next": {
+    "title": "Akumas Vault",
+    "permalink": "/docs/database/GaeaClass/Akumas Vault"
+  }
+}

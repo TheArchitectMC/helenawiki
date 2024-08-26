@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Icarus Tomb",
+  "title": "Icarus Tomb",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Icarus Tomb.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Icarus Tomb",
+  "permalink": "/docs/database/EleosClass/Icarus Tomb",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Icarus Tomb.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Hypnos Vault",
+    "permalink": "/docs/database/EleosClass/Hypnos Vault"
+  },
+  "next": {
+    "title": "Inescapable Cake",
+    "permalink": "/docs/database/EleosClass/Inescapable Cake"
+  }
+}

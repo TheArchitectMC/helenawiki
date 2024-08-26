@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Stormable",
+  "title": "Stormable",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Stormable.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Stormable",
+  "permalink": "/docs/database/MangrovesClass/Stormable",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Stormable.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Solitude's Solstice",
+    "permalink": "/docs/database/MangrovesClass/Solitude's Solstice"
+  },
+  "next": {
+    "title": "Survival Prison Speedrun",
+    "permalink": "/docs/database/MangrovesClass/Survival Prison Speedrun"
+  }
+}

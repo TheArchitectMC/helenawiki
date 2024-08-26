@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Ametrine Impulse",
+  "title": "Ametrine Impulse",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Ametrine Impulse.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Ametrine Impulse",
+  "permalink": "/docs/database/MangrovesClass/Ametrine Impulse",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Ametrine Impulse.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Amazon Lily",
+    "permalink": "/docs/database/MangrovesClass/Amazon Lily"
+  },
+  "next": {
+    "title": "Apotheosis",
+    "permalink": "/docs/database/MangrovesClass/Apotheosis"
+  }
+}

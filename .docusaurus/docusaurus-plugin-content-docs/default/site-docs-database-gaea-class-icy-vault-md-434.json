@@ -1,0 +1,24 @@
+{
+  "id": "database/GaeaClass/Icy Vault",
+  "title": "Icy Vault",
+  "description": "",
+  "source": "@site/docs/database/GaeaClass/Icy Vault.md",
+  "sourceDirName": "database/GaeaClass",
+  "slug": "/database/GaeaClass/Icy Vault",
+  "permalink": "/docs/database/GaeaClass/Icy Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/GaeaClass/Icy Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Helios Vault",
+    "permalink": "/docs/database/GaeaClass/Helios Vault"
+  },
+  "next": {
+    "title": "Impel Down",
+    "permalink": "/docs/database/GaeaClass/Impel Down"
+  }
+}

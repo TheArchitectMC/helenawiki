@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Nemesis Citadel",
+  "title": "Nemesis Citadel",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Nemesis Citadel.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Nemesis Citadel",
+  "permalink": "/docs/database/EleosClass/Nemesis Citadel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Nemesis Citadel.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Napkins Smol",
+    "permalink": "/docs/database/EleosClass/Napkins Smol"
+  },
+  "next": {
+    "title": "Neptunes Monument",
+    "permalink": "/docs/database/EleosClass/Neptunes Monument"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "database/LostClass/The Cube2",
+  "title": "The Cube2",
+  "description": "",
+  "source": "@site/docs/database/LostClass/The Cube2.md",
+  "sourceDirName": "database/LostClass",
+  "slug": "/database/LostClass/The Cube2",
+  "permalink": "/docs/database/LostClass/The Cube2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/LostClass/The Cube2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Cube",
+    "permalink": "/docs/database/LostClass/The Cube"
+  },
+  "next": {
+    "title": "The Midas Tower III",
+    "permalink": "/docs/database/LostClass/The Midas Tower III"
+  }
+}

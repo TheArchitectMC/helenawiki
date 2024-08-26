@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/The Molotov",
+  "title": "The Molotov",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/The Molotov.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/The Molotov",
+  "permalink": "/docs/database/EleosClass/The Molotov",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/The Molotov.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Matrix",
+    "permalink": "/docs/database/EleosClass/The Matrix"
+  },
+  "next": {
+    "title": "The Mothership",
+    "permalink": "/docs/database/EleosClass/The Mothership"
+  }
+}

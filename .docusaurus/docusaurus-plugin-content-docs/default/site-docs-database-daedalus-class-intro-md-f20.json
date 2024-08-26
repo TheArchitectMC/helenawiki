@@ -1,0 +1,22 @@
+{
+  "id": "database/DaedalusClass/intro",
+  "title": "Hello from Docusaurus",
+  "description": "Create a doc page with rich content.",
+  "source": "@site/docs/database/DaedalusClass/intro.md",
+  "sourceDirName": "database/DaedalusClass",
+  "slug": "/database/DaedalusClass/intro",
+  "permalink": "/docs/database/DaedalusClass/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/DaedalusClass/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Create a doc page with rich content."
+  },
+  "sidebar": "databaseSidebar",
+  "next": {
+    "title": "Amogus Vault",
+    "permalink": "/docs/database/EleosClass/Amogus Vault"
+  }
+}

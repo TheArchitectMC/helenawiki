@@ -1,0 +1,24 @@
+{
+  "id": "database/PandoraClass/Ares Vault2",
+  "title": "Ares Vault2",
+  "description": "",
+  "source": "@site/docs/database/PandoraClass/Ares Vault2.md",
+  "sourceDirName": "database/PandoraClass",
+  "slug": "/database/PandoraClass/Ares Vault2",
+  "permalink": "/docs/database/PandoraClass/Ares Vault2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/PandoraClass/Ares Vault2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Ares Vault",
+    "permalink": "/docs/database/PandoraClass/Ares Vault"
+  },
+  "next": {
+    "title": "Bifrost Complex",
+    "permalink": "/docs/database/PandoraClass/Bifrost Complex"
+  }
+}

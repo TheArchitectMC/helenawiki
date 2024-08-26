@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/GAs 1 Chunk Prison",
+  "title": "GAs 1 Chunk Prison",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/GAs 1 Chunk Prison.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/GAs 1 Chunk Prison",
+  "permalink": "/docs/database/MangrovesClass/GAs 1 Chunk Prison",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/GAs 1 Chunk Prison.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Fractal Monument",
+    "permalink": "/docs/database/MangrovesClass/Fractal Monument"
+  },
+  "next": {
+    "title": "Game & Watch",
+    "permalink": "/docs/database/MangrovesClass/Game & Watch"
+  }
+}

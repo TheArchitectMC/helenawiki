@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/PRISON",
+  "title": "PRISON",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/PRISON.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/PRISON",
+  "permalink": "/docs/database/MangrovesClass/PRISON",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/PRISON.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "P-69",
+    "permalink": "/docs/database/MangrovesClass/P-69"
+  },
+  "next": {
+    "title": "Peak 11",
+    "permalink": "/docs/database/MangrovesClass/Peak 11"
+  }
+}

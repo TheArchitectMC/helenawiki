@@ -1,0 +1,24 @@
+{
+  "id": "database/LostClass/Netherite Vault",
+  "title": "Netherite Vault",
+  "description": "",
+  "source": "@site/docs/database/LostClass/Netherite Vault.md",
+  "sourceDirName": "database/LostClass",
+  "slug": "/database/LostClass/Netherite Vault",
+  "permalink": "/docs/database/LostClass/Netherite Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/LostClass/Netherite Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Devils Lair",
+    "permalink": "/docs/database/LostClass/Devils Lair"
+  },
+  "next": {
+    "title": "Smoller Vault",
+    "permalink": "/docs/database/LostClass/Smoller Vault"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/The Fox Den",
+  "title": "The Fox Den",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/The Fox Den.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/The Fox Den",
+  "permalink": "/docs/database/MangrovesClass/The Fox Den",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/The Fox Den.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Fish Tank",
+    "permalink": "/docs/database/MangrovesClass/The Fish Tank"
+  },
+  "next": {
+    "title": "The Hallucination",
+    "permalink": "/docs/database/MangrovesClass/The Hallucination"
+  }
+}

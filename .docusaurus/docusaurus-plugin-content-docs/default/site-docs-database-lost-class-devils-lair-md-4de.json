@@ -1,0 +1,24 @@
+{
+  "id": "database/LostClass/Devils Lair",
+  "title": "Devils Lair",
+  "description": "",
+  "source": "@site/docs/database/LostClass/Devils Lair.md",
+  "sourceDirName": "database/LostClass",
+  "slug": "/database/LostClass/Devils Lair",
+  "permalink": "/docs/database/LostClass/Devils Lair",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/LostClass/Devils Lair.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Bedrock Box",
+    "permalink": "/docs/database/LostClass/Bedrock Box"
+  },
+  "next": {
+    "title": "Netherite Vault",
+    "permalink": "/docs/database/LostClass/Netherite Vault"
+  }
+}

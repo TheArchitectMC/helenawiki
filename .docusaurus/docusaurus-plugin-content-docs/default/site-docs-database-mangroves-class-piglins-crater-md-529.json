@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Piglins Crater",
+  "title": "Piglins Crater",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Piglins Crater.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Piglins Crater",
+  "permalink": "/docs/database/MangrovesClass/Piglins Crater",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Piglins Crater.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Peak 11",
+    "permalink": "/docs/database/MangrovesClass/Peak 11"
+  },
+  "next": {
+    "title": "Project 113",
+    "permalink": "/docs/database/MangrovesClass/Project 113"
+  }
+}

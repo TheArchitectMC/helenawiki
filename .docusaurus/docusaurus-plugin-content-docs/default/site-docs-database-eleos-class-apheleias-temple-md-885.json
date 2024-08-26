@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Apheleia's Temple",
+  "title": "Apheleia's Temple",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Apheleia's Temple.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Apheleia's Temple",
+  "permalink": "/docs/database/EleosClass/Apheleia's Temple",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Apheleia's Temple.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Anomics OG Prisons",
+    "permalink": "/docs/database/EleosClass/Anomics OG Prisons"
+  },
+  "next": {
+    "title": "Aquatic Aurora",
+    "permalink": "/docs/database/EleosClass/Aquatic Aurora"
+  }
+}

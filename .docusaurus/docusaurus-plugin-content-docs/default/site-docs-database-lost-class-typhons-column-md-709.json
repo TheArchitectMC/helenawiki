@@ -1,0 +1,24 @@
+{
+  "id": "database/LostClass/Typhons Column",
+  "title": "Typhons Column",
+  "description": "",
+  "source": "@site/docs/database/LostClass/Typhons Column.md",
+  "sourceDirName": "database/LostClass",
+  "slug": "/database/LostClass/Typhons Column",
+  "permalink": "/docs/database/LostClass/Typhons Column",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/LostClass/Typhons Column.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Tluav Box",
+    "permalink": "/docs/database/LostClass/Tluav Box"
+  },
+  "next": {
+    "title": "Amazon Lily",
+    "permalink": "/docs/database/MangrovesClass/Amazon Lily"
+  }
+}

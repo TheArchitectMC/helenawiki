@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Yoxy Vault",
+  "title": "Yoxy Vault",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Yoxy Vault.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Yoxy Vault",
+  "permalink": "/docs/database/MangrovesClass/Yoxy Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Yoxy Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Y-Positive",
+    "permalink": "/docs/database/MangrovesClass/Y-Positive"
+  },
+  "next": {
+    "title": "Admins Vault",
+    "permalink": "/docs/database/PandoraClass/Admins Vault"
+  }
+}

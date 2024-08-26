@@ -1,0 +1,24 @@
+{
+  "id": "database/GaeaClass/The Kingstone",
+  "title": "The Kingstone",
+  "description": "",
+  "source": "@site/docs/database/GaeaClass/The Kingstone.md",
+  "sourceDirName": "database/GaeaClass",
+  "slug": "/database/GaeaClass/The Kingstone",
+  "permalink": "/docs/database/GaeaClass/The Kingstone",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/GaeaClass/The Kingstone.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Infinity Vault",
+    "permalink": "/docs/database/GaeaClass/The Infinity Vault"
+  },
+  "next": {
+    "title": "The Palantir",
+    "permalink": "/docs/database/GaeaClass/The Palantir"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "database/GaeaClass/Mount Olympus",
+  "title": "Mount Olympus",
+  "description": "",
+  "source": "@site/docs/database/GaeaClass/Mount Olympus.md",
+  "sourceDirName": "database/GaeaClass",
+  "slug": "/database/GaeaClass/Mount Olympus",
+  "permalink": "/docs/database/GaeaClass/Mount Olympus",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/GaeaClass/Mount Olympus.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Meteorite Prison",
+    "permalink": "/docs/database/GaeaClass/Meteorite Prison"
+  },
+  "next": {
+    "title": "Neptunes Last Wave",
+    "permalink": "/docs/database/GaeaClass/Neptunes Last Wave"
+  }
+}

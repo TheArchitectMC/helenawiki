@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Dwarven Keep",
+  "title": "Dwarven Keep",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Dwarven Keep.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Dwarven Keep",
+  "permalink": "/docs/database/MangrovesClass/Dwarven Keep",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Dwarven Keep.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Diktaean Cave",
+    "permalink": "/docs/database/MangrovesClass/Diktaean Cave"
+  },
+  "next": {
+    "title": "Edge Of Destiny",
+    "permalink": "/docs/database/MangrovesClass/Edge Of Destiny"
+  }
+}

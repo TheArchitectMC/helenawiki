@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Y-Positive",
+  "title": "Y-Positive",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Y-Positive.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Y-Positive",
+  "permalink": "/docs/database/MangrovesClass/Y-Positive",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Y-Positive.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Vulcans Vengeance",
+    "permalink": "/docs/database/MangrovesClass/Vulcans Vengeance"
+  },
+  "next": {
+    "title": "Yoxy Vault",
+    "permalink": "/docs/database/MangrovesClass/Yoxy Vault"
+  }
+}

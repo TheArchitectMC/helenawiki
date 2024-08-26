@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Astraeus Citadel",
+  "title": "Astraeus Citadel",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Astraeus Citadel.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Astraeus Citadel",
+  "permalink": "/docs/database/EleosClass/Astraeus Citadel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Astraeus Citadel.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Arctic Bastion",
+    "permalink": "/docs/database/EleosClass/Arctic Bastion"
+  },
+  "next": {
+    "title": "Attis Vault",
+    "permalink": "/docs/database/EleosClass/Attis Vault"
+  }
+}

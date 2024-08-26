@@ -28,7 +28,7 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Focused on neutral knownledge',
+    title: 'Focused on knownledge',
     Svg: require('@site/static/img/undraw_website_u6x8.svg').default,
     description: (
       <>

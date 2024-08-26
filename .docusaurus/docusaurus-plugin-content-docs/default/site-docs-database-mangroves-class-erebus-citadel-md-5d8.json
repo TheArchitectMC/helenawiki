@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Erebus Citadel",
+  "title": "Erebus Citadel",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Erebus Citadel.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Erebus Citadel",
+  "permalink": "/docs/database/MangrovesClass/Erebus Citadel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Erebus Citadel.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Eleos Citadel 21",
+    "permalink": "/docs/database/MangrovesClass/Eleos Citadel 21"
+  },
+  "next": {
+    "title": "Factory X",
+    "permalink": "/docs/database/MangrovesClass/Factory X"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Amogus Vault",
+  "title": "Amogus Vault",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Amogus Vault.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Amogus Vault",
+  "permalink": "/docs/database/EleosClass/Amogus Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Amogus Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Hello from Docusaurus",
+    "permalink": "/docs/database/DaedalusClass/intro"
+  },
+  "next": {
+    "title": "Anomics OG Prisons",
+    "permalink": "/docs/database/EleosClass/Anomics OG Prisons"
+  }
+}

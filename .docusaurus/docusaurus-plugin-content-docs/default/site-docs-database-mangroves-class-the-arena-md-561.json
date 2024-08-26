@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/The Arena",
+  "title": "The Arena",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/The Arena.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/The Arena",
+  "permalink": "/docs/database/MangrovesClass/The Arena",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/The Arena.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Acid Alps",
+    "permalink": "/docs/database/MangrovesClass/The Acid Alps"
+  },
+  "next": {
+    "title": "The Cave",
+    "permalink": "/docs/database/MangrovesClass/The Cave"
+  }
+}

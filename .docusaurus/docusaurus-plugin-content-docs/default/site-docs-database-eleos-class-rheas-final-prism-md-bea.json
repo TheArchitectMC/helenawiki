@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Rheas Final Prism",
+  "title": "Rheas Final Prism",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Rheas Final Prism.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Rheas Final Prism",
+  "permalink": "/docs/database/EleosClass/Rheas Final Prism",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Rheas Final Prism.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Redwood Citadel",
+    "permalink": "/docs/database/EleosClass/Redwood Citadel"
+  },
+  "next": {
+    "title": "Rock Bottom",
+    "permalink": "/docs/database/EleosClass/Rock Bottom"
+  }
+}

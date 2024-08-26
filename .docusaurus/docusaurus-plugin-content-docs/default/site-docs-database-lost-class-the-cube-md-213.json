@@ -1,0 +1,24 @@
+{
+  "id": "database/LostClass/The Cube",
+  "title": "The Cube",
+  "description": "",
+  "source": "@site/docs/database/LostClass/The Cube.md",
+  "sourceDirName": "database/LostClass",
+  "slug": "/database/LostClass/The Cube",
+  "permalink": "/docs/database/LostClass/The Cube",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/LostClass/The Cube.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Core",
+    "permalink": "/docs/database/LostClass/The Core"
+  },
+  "next": {
+    "title": "The Cube2",
+    "permalink": "/docs/database/LostClass/The Cube2"
+  }
+}

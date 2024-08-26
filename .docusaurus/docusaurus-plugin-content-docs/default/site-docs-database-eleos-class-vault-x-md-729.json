@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Vault X",
+  "title": "Vault X",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Vault X.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Vault X",
+  "permalink": "/docs/database/EleosClass/Vault X",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Vault X.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Vault 69",
+    "permalink": "/docs/database/EleosClass/Vault 69"
+  },
+  "next": {
+    "title": "Wesleys BOX",
+    "permalink": "/docs/database/EleosClass/Wesleys BOX"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Gaia's Vault IBSMISOW",
+  "title": "Gaia's Vault IBSMISOW",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Gaia's Vault IBSMISOW.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Gaia's Vault IBSMISOW",
+  "permalink": "/docs/database/EleosClass/Gaia's Vault IBSMISOW",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Gaia's Vault IBSMISOW.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Fortress Of Solitude",
+    "permalink": "/docs/database/EleosClass/Fortress Of Solitude"
+  },
+  "next": {
+    "title": "Hades Vault KC",
+    "permalink": "/docs/database/EleosClass/Hades Vault KC"
+  }
+}

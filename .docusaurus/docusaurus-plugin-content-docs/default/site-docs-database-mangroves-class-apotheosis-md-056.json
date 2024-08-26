@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Apotheosis",
+  "title": "Apotheosis",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Apotheosis.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Apotheosis",
+  "permalink": "/docs/database/MangrovesClass/Apotheosis",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Apotheosis.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Ametrine Impulse",
+    "permalink": "/docs/database/MangrovesClass/Ametrine Impulse"
+  },
+  "next": {
+    "title": "Arctic Smol",
+    "permalink": "/docs/database/MangrovesClass/Arctic Smol"
+  }
+}

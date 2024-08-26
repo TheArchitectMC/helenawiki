@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Fractal Monument",
+  "title": "Fractal Monument",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Fractal Monument.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Fractal Monument",
+  "permalink": "/docs/database/MangrovesClass/Fractal Monument",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Fractal Monument.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Factory X",
+    "permalink": "/docs/database/MangrovesClass/Factory X"
+  },
+  "next": {
+    "title": "GAs 1 Chunk Prison",
+    "permalink": "/docs/database/MangrovesClass/GAs 1 Chunk Prison"
+  }
+}

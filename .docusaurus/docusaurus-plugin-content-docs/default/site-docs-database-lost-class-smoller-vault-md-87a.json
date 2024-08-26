@@ -1,0 +1,24 @@
+{
+  "id": "database/LostClass/Smoller Vault",
+  "title": "Smoller Vault",
+  "description": "",
+  "source": "@site/docs/database/LostClass/Smoller Vault.md",
+  "sourceDirName": "database/LostClass",
+  "slug": "/database/LostClass/Smoller Vault",
+  "permalink": "/docs/database/LostClass/Smoller Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/LostClass/Smoller Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Netherite Vault",
+    "permalink": "/docs/database/LostClass/Netherite Vault"
+  },
+  "next": {
+    "title": "The Core",
+    "permalink": "/docs/database/LostClass/The Core"
+  }
+}

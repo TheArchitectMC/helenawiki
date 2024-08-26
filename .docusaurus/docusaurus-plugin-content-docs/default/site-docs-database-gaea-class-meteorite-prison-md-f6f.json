@@ -1,0 +1,24 @@
+{
+  "id": "database/GaeaClass/Meteorite Prison",
+  "title": "Meteorite Prison",
+  "description": "",
+  "source": "@site/docs/database/GaeaClass/Meteorite Prison.md",
+  "sourceDirName": "database/GaeaClass",
+  "slug": "/database/GaeaClass/Meteorite Prison",
+  "permalink": "/docs/database/GaeaClass/Meteorite Prison",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/GaeaClass/Meteorite Prison.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Lucifers Vault",
+    "permalink": "/docs/database/GaeaClass/Lucifers Vault"
+  },
+  "next": {
+    "title": "Mount Olympus",
+    "permalink": "/docs/database/GaeaClass/Mount Olympus"
+  }
+}

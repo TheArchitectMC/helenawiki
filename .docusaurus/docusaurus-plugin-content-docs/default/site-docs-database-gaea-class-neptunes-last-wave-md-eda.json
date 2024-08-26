@@ -1,0 +1,24 @@
+{
+  "id": "database/GaeaClass/Neptunes Last Wave",
+  "title": "Neptunes Last Wave",
+  "description": "",
+  "source": "@site/docs/database/GaeaClass/Neptunes Last Wave.md",
+  "sourceDirName": "database/GaeaClass",
+  "slug": "/database/GaeaClass/Neptunes Last Wave",
+  "permalink": "/docs/database/GaeaClass/Neptunes Last Wave",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/GaeaClass/Neptunes Last Wave.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Mount Olympus",
+    "permalink": "/docs/database/GaeaClass/Mount Olympus"
+  },
+  "next": {
+    "title": "Nidavellir",
+    "permalink": "/docs/database/GaeaClass/Nidavellir"
+  }
+}

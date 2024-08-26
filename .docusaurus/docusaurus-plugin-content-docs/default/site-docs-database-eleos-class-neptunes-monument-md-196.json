@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Neptunes Monument",
+  "title": "Neptunes Monument",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Neptunes Monument.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Neptunes Monument",
+  "permalink": "/docs/database/EleosClass/Neptunes Monument",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Neptunes Monument.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Nemesis Citadel",
+    "permalink": "/docs/database/EleosClass/Nemesis Citadel"
+  },
+  "next": {
+    "title": "Nyxs Temple",
+    "permalink": "/docs/database/EleosClass/Nyxs Temple"
+  }
+}

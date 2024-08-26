@@ -1,0 +1,20 @@
+{
+  "id": "resources/glossary",
+  "title": "Glossary",
+  "description": "",
+  "source": "@site/docs/resources/glossary.md",
+  "sourceDirName": "resources",
+  "slug": "/resources/glossary",
+  "permalink": "/docs/resources/glossary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/resources/glossary.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "resourcesSidebar",
+  "next": {
+    "title": "Sypnosis",
+    "permalink": "/docs/resources/synopsis"
+  }
+}

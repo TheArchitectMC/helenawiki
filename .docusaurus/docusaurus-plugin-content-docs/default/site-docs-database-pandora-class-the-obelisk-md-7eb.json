@@ -1,0 +1,24 @@
+{
+  "id": "database/PandoraClass/The Obelisk",
+  "title": "The Obelisk",
+  "description": "",
+  "source": "@site/docs/database/PandoraClass/The Obelisk.md",
+  "sourceDirName": "database/PandoraClass",
+  "slug": "/database/PandoraClass/The Obelisk",
+  "permalink": "/docs/database/PandoraClass/The Obelisk",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/PandoraClass/The Obelisk.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Fortress",
+    "permalink": "/docs/database/PandoraClass/The Fortress"
+  },
+  "next": {
+    "title": "Titans Vault",
+    "permalink": "/docs/database/PandoraClass/Titans Vault"
+  }
+}

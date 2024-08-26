@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Neon Void",
+  "title": "Neon Void",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Neon Void.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Neon Void",
+  "permalink": "/docs/database/MangrovesClass/Neon Void",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Neon Void.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Monoliths Reprisal",
+    "permalink": "/docs/database/MangrovesClass/Monoliths Reprisal"
+  },
+  "next": {
+    "title": "Nintendo Switch Lite",
+    "permalink": "/docs/database/MangrovesClass/Nintendo Switch Lite"
+  }
+}

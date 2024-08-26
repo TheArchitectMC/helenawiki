@@ -1,0 +1,24 @@
+{
+  "id": "database/GaeaClass/Bankers Vault",
+  "title": "Bankers Vault",
+  "description": "",
+  "source": "@site/docs/database/GaeaClass/Bankers Vault.md",
+  "sourceDirName": "database/GaeaClass",
+  "slug": "/database/GaeaClass/Bankers Vault",
+  "permalink": "/docs/database/GaeaClass/Bankers Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/GaeaClass/Bankers Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Atlantis Vault",
+    "permalink": "/docs/database/GaeaClass/Atlantis Vault"
+  },
+  "next": {
+    "title": "Ciphers Vault",
+    "permalink": "/docs/database/GaeaClass/Ciphers Vault"
+  }
+}

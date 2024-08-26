@@ -1,0 +1,24 @@
+{
+  "id": "database/PandoraClass/Glaciers Orb",
+  "title": "Glaciers Orb",
+  "description": "",
+  "source": "@site/docs/database/PandoraClass/Glaciers Orb.md",
+  "sourceDirName": "database/PandoraClass",
+  "slug": "/database/PandoraClass/Glaciers Orb",
+  "permalink": "/docs/database/PandoraClass/Glaciers Orb",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/PandoraClass/Glaciers Orb.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Devils Vault",
+    "permalink": "/docs/database/PandoraClass/Devils Vault"
+  },
+  "next": {
+    "title": "Guardians Vault",
+    "permalink": "/docs/database/PandoraClass/Guardians Vault"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Cold Blooded Citadel",
+  "title": "Cold Blooded Citadel",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Cold Blooded Citadel.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Cold Blooded Citadel",
+  "permalink": "/docs/database/EleosClass/Cold Blooded Citadel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Cold Blooded Citadel.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Catboys Crib",
+    "permalink": "/docs/database/EleosClass/Catboys Crib"
+  },
+  "next": {
+    "title": "Crystal Vortex",
+    "permalink": "/docs/database/EleosClass/Crystal Vortex"
+  }
+}

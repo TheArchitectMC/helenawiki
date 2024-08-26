@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Napkins Smol",
+  "title": "Napkins Smol",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Napkins Smol.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Napkins Smol",
+  "permalink": "/docs/database/EleosClass/Napkins Smol",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Napkins Smol.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Napkins Moment",
+    "permalink": "/docs/database/EleosClass/Napkins Moment"
+  },
+  "next": {
+    "title": "Nemesis Citadel",
+    "permalink": "/docs/database/EleosClass/Nemesis Citadel"
+  }
+}

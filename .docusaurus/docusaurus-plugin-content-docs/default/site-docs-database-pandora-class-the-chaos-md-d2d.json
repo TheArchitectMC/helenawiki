@@ -1,0 +1,24 @@
+{
+  "id": "database/PandoraClass/The Chaos",
+  "title": "The Chaos",
+  "description": "",
+  "source": "@site/docs/database/PandoraClass/The Chaos.md",
+  "sourceDirName": "database/PandoraClass",
+  "slug": "/database/PandoraClass/The Chaos",
+  "permalink": "/docs/database/PandoraClass/The Chaos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/PandoraClass/The Chaos.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "The Black Hole",
+    "permalink": "/docs/database/PandoraClass/The Black Hole"
+  },
+  "next": {
+    "title": "The Cuckoos Nest",
+    "permalink": "/docs/database/PandoraClass/The Cuckoos Nest"
+  }
+}

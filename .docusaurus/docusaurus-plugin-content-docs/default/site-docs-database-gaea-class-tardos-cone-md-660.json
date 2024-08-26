@@ -1,0 +1,24 @@
+{
+  "id": "database/GaeaClass/Tardos Cone",
+  "title": "Tardos Cone",
+  "description": "",
+  "source": "@site/docs/database/GaeaClass/Tardos Cone.md",
+  "sourceDirName": "database/GaeaClass",
+  "slug": "/database/GaeaClass/Tardos Cone",
+  "permalink": "/docs/database/GaeaClass/Tardos Cone",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/GaeaClass/Tardos Cone.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Satans Arch",
+    "permalink": "/docs/database/GaeaClass/Satans Arch"
+  },
+  "next": {
+    "title": "The Chunk Border",
+    "permalink": "/docs/database/GaeaClass/The Chunk Border"
+  }
+}

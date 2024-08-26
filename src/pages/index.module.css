@@ -8,6 +8,21 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  background: #3400ff;
+  background: linear-gradient(40deg,#3400ff 0%, #ef13dd 80%);
+  background: -webkit-linear-gradient(40deg,#3400ff 0%, #ef13dd 80%);
+  background: -moz-linear-gradient(40deg,#3400ff 0%, #ef13dd 80%);
+}
+
+.heroBanner2 {
+  padding: 8rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  background: #5200ff;
+  background: linear-gradient(17deg,#5200ff 0%, #ff00eb 80%);
+  background: -webkit-linear-gradient(17deg,#5200ff 0%, #ff00eb 80%);
+  background: -moz-linear-gradient(17deg,#5200ff 0%, #ff00eb 80%);
 }
 
 @media screen and (max-width: 996px) {
@@ -20,4 +35,35 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.test
+{
+    background: #0084ff;
+    background: linear-gradient(90deg,#0084ff 0%, #ff00dc 80%);
+    background: -webkit-linear-gradient(90deg,#0084ff 0%, #ff00dc 80%);
+    background: -moz-linear-gradient(90deg,#0084ff 0%, #ff00dc 80%);
+}
+
+.faded 
+{
+  height: auto;
+  width: auto;
+	opacity: 0.50;
+}
+
+.home
+{
+  position: absolute;
+}
+
+.home__container
+{
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
 }

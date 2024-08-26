@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/B Basement",
+  "title": "B Basement",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/B Basement.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/B Basement",
+  "permalink": "/docs/database/EleosClass/B Basement",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/B Basement.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Attis Vault",
+    "permalink": "/docs/database/EleosClass/Attis Vault"
+  },
+  "next": {
+    "title": "B Complex",
+    "permalink": "/docs/database/EleosClass/B Complex"
+  }
+}

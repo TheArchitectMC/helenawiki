@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Survival Prison Speedrun",
+  "title": "Survival Prison Speedrun",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Survival Prison Speedrun.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Survival Prison Speedrun",
+  "permalink": "/docs/database/MangrovesClass/Survival Prison Speedrun",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Survival Prison Speedrun.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Stormable",
+    "permalink": "/docs/database/MangrovesClass/Stormable"
+  },
+  "next": {
+    "title": "Temple Of Poseidon",
+    "permalink": "/docs/database/MangrovesClass/Temple Of Poseidon"
+  }
+}

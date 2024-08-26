@@ -1,0 +1,24 @@
+{
+  "id": "database/GaeaClass/Citadel 32",
+  "title": "Citadel 32",
+  "description": "",
+  "source": "@site/docs/database/GaeaClass/Citadel 32.md",
+  "sourceDirName": "database/GaeaClass",
+  "slug": "/database/GaeaClass/Citadel 32",
+  "permalink": "/docs/database/GaeaClass/Citadel 32",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/GaeaClass/Citadel 32.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Ciphers Vault",
+    "permalink": "/docs/database/GaeaClass/Ciphers Vault"
+  },
+  "next": {
+    "title": "Cleopatras Tomb",
+    "permalink": "/docs/database/GaeaClass/Cleopatras Tomb"
+  }
+}

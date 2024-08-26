@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/P-69",
+  "title": "P-69",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/P-69.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/P-69",
+  "permalink": "/docs/database/MangrovesClass/P-69",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/P-69.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Omega Citadel",
+    "permalink": "/docs/database/MangrovesClass/Omega Citadel"
+  },
+  "next": {
+    "title": "PRISON",
+    "permalink": "/docs/database/MangrovesClass/PRISON"
+  }
+}

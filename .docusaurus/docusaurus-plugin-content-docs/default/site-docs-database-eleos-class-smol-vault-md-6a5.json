@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Smol Vault",
+  "title": "Smol Vault",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Smol Vault.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Smol Vault",
+  "permalink": "/docs/database/EleosClass/Smol Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Smol Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Smol School",
+    "permalink": "/docs/database/EleosClass/Smol School"
+  },
+  "next": {
+    "title": "Snow Grave",
+    "permalink": "/docs/database/EleosClass/Snow Grave"
+  }
+}

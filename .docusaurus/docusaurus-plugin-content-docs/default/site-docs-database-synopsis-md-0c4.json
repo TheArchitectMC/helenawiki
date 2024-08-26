@@ -1,0 +1,20 @@
+{
+  "id": "database/synopsis",
+  "title": "Synopsis",
+  "description": "",
+  "source": "@site/docs/database/synopsis.md",
+  "sourceDirName": "database",
+  "slug": "/database/synopsis",
+  "permalink": "/docs/database/synopsis",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/synopsis.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Zeus Vault",
+    "permalink": "/docs/database/PandoraClass/Zeus Vault"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "database/PandoraClass/The Alpha",
+  "title": "The Alpha",
+  "description": "",
+  "source": "@site/docs/database/PandoraClass/The Alpha.md",
+  "sourceDirName": "database/PandoraClass",
+  "slug": "/database/PandoraClass/The Alpha",
+  "permalink": "/docs/database/PandoraClass/The Alpha",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/PandoraClass/The Alpha.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Tartarus",
+    "permalink": "/docs/database/PandoraClass/Tartarus"
+  },
+  "next": {
+    "title": "The Black Hole",
+    "permalink": "/docs/database/PandoraClass/The Black Hole"
+  }
+}

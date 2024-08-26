@@ -1,0 +1,24 @@
+{
+  "id": "database/EleosClass/Medusas Vault",
+  "title": "Medusas Vault",
+  "description": "",
+  "source": "@site/docs/database/EleosClass/Medusas Vault.md",
+  "sourceDirName": "database/EleosClass",
+  "slug": "/database/EleosClass/Medusas Vault",
+  "permalink": "/docs/database/EleosClass/Medusas Vault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/EleosClass/Medusas Vault.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Lokis Final Vault",
+    "permalink": "/docs/database/EleosClass/Lokis Final Vault"
+  },
+  "next": {
+    "title": "Minervas Vault",
+    "permalink": "/docs/database/EleosClass/Minervas Vault"
+  }
+}

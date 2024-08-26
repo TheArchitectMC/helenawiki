@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Ravens Revenge",
+  "title": "Ravens Revenge",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Ravens Revenge.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Ravens Revenge",
+  "permalink": "/docs/database/MangrovesClass/Ravens Revenge",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Ravens Revenge.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Ravens Retaliation",
+    "permalink": "/docs/database/MangrovesClass/Ravens Retaliation"
+  },
+  "next": {
+    "title": "Snack Fridge",
+    "permalink": "/docs/database/MangrovesClass/Snack Fridge"
+  }
+}

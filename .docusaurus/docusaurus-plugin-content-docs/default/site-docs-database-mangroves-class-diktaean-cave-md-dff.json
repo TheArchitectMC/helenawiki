@@ -1,0 +1,24 @@
+{
+  "id": "database/MangrovesClass/Diktaean Cave",
+  "title": "Diktaean Cave",
+  "description": "",
+  "source": "@site/docs/database/MangrovesClass/Diktaean Cave.md",
+  "sourceDirName": "database/MangrovesClass",
+  "slug": "/database/MangrovesClass/Diktaean Cave",
+  "permalink": "/docs/database/MangrovesClass/Diktaean Cave",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TheArchitectMC/helenawiki/docs/database/MangrovesClass/Diktaean Cave.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "databaseSidebar",
+  "previous": {
+    "title": "Cryofrost Container",
+    "permalink": "/docs/database/MangrovesClass/Cryofrost Container"
+  },
+  "next": {
+    "title": "Dwarven Keep",
+    "permalink": "/docs/database/MangrovesClass/Dwarven Keep"
+  }
+}
